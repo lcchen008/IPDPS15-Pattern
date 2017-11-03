@@ -1,0 +1,298 @@
+
+    numMoles = 1048576  numTimeSteps = 100  neighUpdate = 20  cutoffRadius = 3.50
+
+Reading Graph...
+nodes= 1048576  edges= 130023424
+first inter: (0 1)
+Reading Coord...
+Init Settings ...
+----------------------------------------------------
+ MolDyn - A Simple Molecular Dynamics simulation 
+----------------------------------------------------
+ number of particles is ......... 1048576
+ side length of the box is ......    108.045548
+ cut off radius is ..............      3.500000
+ temperature is .................      0.722000
+ time step is ...................      0.016000
+ interaction-list updated every..   20 steps
+ total no. of steps .............   100 
+
+ Relax, This will take a while. 
+
+
+ TimeStep   K.E.        P.E.        Energy    Temp.     Pres.    Vel.    rp 
+ -----    --------   ----------   ----------  -------  -------  ------  ------Init Velocities ...
+Init Forces ...
+Start iteration...
+
+    numMoles = 1048576  numTimeSteps = 100  neighUpdate = 20  cutoffRadius = 3.50
+
+Reading Graph...
+nodes= 1048576  edges= 130023424
+first inter: (0 1)
+Reading Coord...
+Init Settings ...
+----------------------------------------------------
+ MolDyn - A Simple Molecular Dynamics simulation 
+----------------------------------------------------
+ number of particles is ......... 1048576
+ side length of the box is ......    108.045548
+ cut off radius is ..............      3.500000
+ temperature is .................      0.722000
+ time step is ...................      0.016000
+ interaction-list updated every..   20 steps
+ total no. of steps .............   100 
+
+ Relax, This will take a while. 
+
+
+ TimeStep   K.E.        P.E.        Energy    Temp.     Pres.    Vel.    rp 
+ -----    --------   ----------   ----------  -------  -------  ------  ------Init Velocities ...
+Init Forces ...
+Start iteration...
+count is: =====> 0my rank is: 1
+count is: =====> 0my rank is: 0
+num_procs_: 2
+===========my rank: 1, my node start: 524288 global num edges: 130023424
+before====================================
+num_procs_: 2
+===========my rank: 0, my node start: 0 global num edges: 130023424
+before====================================
+after====================================
+before processing crossing edges size: 3768320 my edge size: 63127552==============================
+after====================================
+before processing crossing edges size: 3768320 my edge size: 63127552==============================
+crossing edge done.........
+crossing edge done.........
+xxxxxxxxxxxxxxxxxnum of my edges: 66895872
+xxxxxxxxxxxxxxxxxnum of my edges: 66895872
+iteration: 0
+coordinate updated...
+data_h reset++++++++++++++++
+gpu_total_num_partitons 0: 96
+gpu_total_num_partitons 1: 96
+my num nodes: 589824
+iteration: 0
+coordinate updated...
+data_h reset++++++++++++++++
+gpu_total_num_partitons 0: 96
+gpu_total_num_partitons 1: 96
+my num nodes: 589824
+partition done.............................................
+partition done.............................................
+++++++++++++++cpu edges: =========> 23587510
+++++++++++++++gpu 0 edges: =========> 32150972
+++++++++++++++cpu edges: =========> 23611970
+++++++++++++++gpu 1 edges: =========> 32271424
+++++++++++++++gpu 0 edges: =========> 32256983
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 1 edges: =========> 32623738
+++++++++++++++ gpu edges copy done +++++++++++++ 
+1 split done....
+0 split done....
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.001467
+gpu time: 0.037024
+CPU time: 0.064860
++O+O+O+ finish 0 iteration. continuw...+O+O+O+ 
+=============>exchange halo time: 0.093191
+gpu time: 0.040978
+CPU time: 0.059747
++O+O+O+ finish 0 iteration. continuw...+O+O+O+ 
+iteration: 1
+iteration: 1
+coordinate updated...
+coordinate updated...
+data_h reset++++++++++++++++
+data_h reset++++++++++++++++
+gpu_total_num_partitons 0: 128
+gpu_total_num_partitons 1: 128
+my num nodes: 589824
+gpu_total_num_partitons 0: 128
+gpu_total_num_partitons 1: 128
+my num nodes: 589824
+partition done.............................................
+partition done.............................................
+++++++++++++++cpu edges: =========> 7941796
+++++++++++++++cpu edges: =========> 11690941
+++++++++++++++gpu 0 edges: =========> 57926459
+++++++++++++++gpu 0 edges: =========> 56985220
+++++++++++++++gpu 1 edges: =========> 57883739
+++++++++++++++ gpu edges copy done +++++++++++++ 
+CPU deleted....
+GPU 0 deleted....
+++++++++++++++gpu 1 edges: =========> 56815576
+++++++++++++++ gpu edges copy done +++++++++++++ 
+CPU deleted....
+GPU 0 deleted....
+GPU 1 deleted....
+GPU 1 deleted....
+1 split done....
+0 split done....
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000680
+CPU time: 0.036615
+gpu time: 0.061565
++O+O+O+ finish 1 iteration. continuw...+O+O+O+ 
+=============>exchange halo time: 0.086908
+CPU time: 0.041579
+gpu time: 0.063486
++O+O+O+ finish 1 iteration. continuw...+O+O+O+ 
+iteration: 2
+iteration: 2
+coordinate updated...
+coordinate updated...
+data_h reset++++++++++++++++
+data_h reset++++++++++++++++
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.001625
+CPU time: 0.031412
+gpu time: 0.061648
++O+O+O+ finish 2 iteration. continuw...+O+O+O+ 
+=============>exchange halo time: 0.084026
+CPU time: 0.034359
+gpu time: 0.063328
++O+O+O+ finish 2 iteration. continuw...+O+O+O+ 
+iteration: 3
+iteration: 3
+coordinate updated...
+coordinate updated...
+data_h reset++++++++++++++++
+data_h reset++++++++++++++++
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.001059
+oooooooooooo exchanging halo node data ooooooooooooo
+CPU time: 0.031820
+gpu time: 0.061603
++O+O+O+ finish 3 iteration. continuw...+O+O+O+ 
+=============>exchange halo time: 0.081521
+CPU time: 0.034249
+gpu time: 0.063441
++O+O+O+ finish 3 iteration. continuw...+O+O+O+ 
+iteration: 4
+iteration: 4
+coordinate updated...
+coordinate updated...
+data_h reset++++++++++++++++
+data_h reset++++++++++++++++
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.001262
+CPU time: 0.032052
+gpu time: 0.061424
++O+O+O+ finish 4 iteration. continuw...+O+O+O+ 
+=============>exchange halo time: 0.090769
+CPU time: 0.034286
+gpu time: 0.063607
++O+O+O+ finish 4 iteration. continuw...+O+O+O+ 
+iteration: 5
+iteration: 5
+coordinate updated...
+coordinate updated...
+data_h reset++++++++++++++++
+data_h reset++++++++++++++++
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.001268
+CPU time: 0.031436
+gpu time: 0.061209
++O+O+O+ finish 5 iteration. continuw...+O+O+O+ 
+=============>exchange halo time: 0.090683
+CPU time: 0.034561
+gpu time: 0.063532
++O+O+O+ finish 5 iteration. continuw...+O+O+O+ 
+iteration: 6
+iteration: 6
+coordinate updated...
+coordinate updated...
+data_h reset++++++++++++++++
+data_h reset++++++++++++++++
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000759
+oooooooooooo exchanging halo node data ooooooooooooo
+CPU time: 0.031358
+gpu time: 0.061506
++O+O+O+ finish 6 iteration. continuw...+O+O+O+ 
+=============>exchange halo time: 0.073155
+CPU time: 0.034486
+gpu time: 0.063689
++O+O+O+ finish 6 iteration. continuw...+O+O+O+ 
+iteration: 7
+iteration: 7
+coordinate updated...
+coordinate updated...
+data_h reset++++++++++++++++
+data_h reset++++++++++++++++
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000759
+oooooooooooo exchanging halo node data ooooooooooooo
+CPU time: 0.031230
+gpu time: 0.061651
++O+O+O+ finish 7 iteration. continuw...+O+O+O+ 
+=============>exchange halo time: 0.077399
+CPU time: 0.035799
+gpu time: 0.063621
++O+O+O+ finish 7 iteration. continuw...+O+O+O+ 
+iteration: 8
+iteration: 8
+coordinate updated...
+coordinate updated...
+data_h reset++++++++++++++++
+data_h reset++++++++++++++++
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.001265
+CPU time: 0.031451
+gpu time: 0.061605
++O+O+O+ finish 8 iteration. continuw...+O+O+O+ 
+=============>exchange halo time: 0.088010
+CPU time: 0.034133
+gpu time: 0.063503
++O+O+O+ finish 8 iteration. continuw...+O+O+O+ 
+iteration: 9
+iteration: 9
+coordinate updated...
+coordinate updated...
+data_h reset++++++++++++++++
+data_h reset++++++++++++++++
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000780
+oooooooooooo exchanging halo node data ooooooooooooo
+CPU time: 0.031283
+gpu time: 0.061706
++O+O+O+ finish 9 iteration. continuw...+O+O+O+ 
+=============>exchange halo time: 0.080892
+CPU time: 0.034280
+gpu time: 0.063707
++O+O+O+ finish 9 iteration. continuw...+O+O+O+ 
+SERIAL TIME: ~~~~ 0.000000
+SERIAL TIME: ~~~~ 0.000000
+=================> offset number: 524288 input size: 12582912
+=================> offset number: 524288 input size: 12582912
+O+O+O+O+O+total offsets: 0 524288
+0 CPU time: 0.001152
+O+O+O+O+O+total offsets: 1 524288
+0 gpu time: 0.002432
+AVE~~~~~~~~~~0.018007
+
+------------------------------------------- 
+Results  
+
+   10       0.0000       0.0000       0.0000   0.0000   0.0000   0.1957  46.5
+
+ In the final step there were 130023424 interacting pairs
+reduction time: 1.251379, copy time: 0.137741
+1 CPU time: 0.001156
+1 gpu time: 0.002368
+AVE~~~~~~~~~~0.019674
+
+------------------------------------------- 
+Results  
+
+   10       0.0000       0.0000       0.0000   0.0000   0.0000   0.0978  23.2
+
+ In the final step there were 130023424 interacting pairs
+reduction time: 0.577675, copy time: 0.098953

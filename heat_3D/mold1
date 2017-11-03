@@ -1,0 +1,9 @@
+-b 64
+-s 100
+-u 20
+-r 3.5
+-m input/64-3.5r.mesh
+-x input/64-3.5r.xyz
+-p 10
+-t 0
+-f 1

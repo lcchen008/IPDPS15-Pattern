@@ -1,0 +1,127 @@
+my rank: 0
+my backward neighbors: {0, 0, 1}
+my forward neighbors: {0, 0, 1}
+Initting.......................
+Rank: 0 Init done...
+Initting.......................
+Rank: 1 Init done...
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+copying GPU: 1
+copying GPU: 1
+############internal size: {1018, 1018, 164}
+CPU thread launched...
+##########num_tiles: 45056
+############internal size: {1018, 1018, 164}
+CPU thread launched...
+##########num_tiles: 45056
+gpu time: 0.347965
+gpu time: 0.346802
+exec time: 1.231629
+PURE INTERNAL TIME: 1.232003
+exec time: 1.227116
+PURE INTERNAL TIME: 1.227374
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.000001
+DIM 0 copy time: 0.000001
+PURE EX TIME: 0.296507, PURE COPY TIME: 0.000001
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.000001
+DIM 0 copy time: 0.000001
+PURE EX TIME: 0.013751, PURE COPY TIME: 0.000001
+processing border...
+CPU thread launched...
+##########num_tiles: 11008
+processing border...
+CPU thread launched...
+##########num_tiles: 11008
+gpu time: 0.018915
+gpu time: 0.018959
+exec time: 0.095610
+exec time: 0.104473
+#########along 0: 63
+#########along 1: 224
+#########along 2: 225
+#########along 0: 63
+#########along 1: 224
+#########along 2: 225
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+copying GPU: 1
+copying GPU: 1
+############internal size: {1018, 1018, 57}
+CPU thread launched...
+##########num_tiles: 16384
+############internal size: {1018, 1018, 57}
+CPU thread launched...
+##########num_tiles: 16384
+gpu time: 0.455538
+gpu time: 0.454773
+exec time: 0.522936
+PURE INTERNAL TIME: 0.523136
+exec time: 0.551908
+PURE INTERNAL TIME: 0.552087
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.000001
+DIM 0 copy time: 0.000001
+PURE EX TIME: 0.079714, PURE COPY TIME: 0.000001
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.000000
+DIM 0 copy time: 0.000000
+PURE EX TIME: 0.009874, PURE COPY TIME: 0.000000
+processing border...
+CPU thread launched...
+##########num_tiles: 9216
+processing border...
+CPU thread launched...
+##########num_tiles: 9216
+gpu time: 0.021906
+gpu time: 0.020698
+exec time: 0.089825
+1 ====>iter: 2
+exec time: 0.094396
+0 ====>iter: 2
+CPU thread launched...
+##########num_tiles: 16384
+CPU thread launched...
+##########num_tiles: 16384
+exec time: 0.451025
+gpu time: 0.454996
+gpu time: 0.455725
+PURE INTERNAL TIME: 0.455799
+exec time: 0.552272
+PURE INTERNAL TIME: 0.552446
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.000001
+DIM 0 copy time: 0.000001
+PURE EX TIME: 0.006404, PURE COPY TIME: 0.000001
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.000001
+DIM 0 copy time: 0.000001
+PURE EX TIME: 0.106140, PURE COPY TIME: 0.000001
+internal time: 0.584856
+processing border...
+CPU thread launched...
+##########num_tiles: 9216
+internal time: 0.587576
+processing border...
+CPU thread launched...
+##########num_tiles: 9216
+gpu time: 0.020505
+gpu time: 0.020638
+exec time: 0.064716
+border time: 0.064997
+#########RANK 0 EXECUTION TIME: 0.649952
+exec time: 0.081375
+border time: 0.081586
+#########RANK 1 EXECUTION TIME: 0.669215

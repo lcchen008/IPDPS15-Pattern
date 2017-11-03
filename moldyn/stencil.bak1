@@ -1,0 +1,95 @@
+#ifndef STENCIL
+#define STENCIL
+#define W 6
+
+#include "lib/array.h"
+
+#if defined(GPU_KERNEL)
+#define DEVICE __device__
+namespace FGPU{
+#elif defined(CPU_KERNEL)
+#define DEVICE
+namespace FCPU{
+#endif
+
+DEVICE size_t get(size_t reference, int dims, int *size, int i, int j, int k)
+{
+	if(dims == 2)	
+	{
+		reference += i + j * size[0];	
+	}
+	else if(dims == 3)
+	{
+		reference += i + j * size[0] + k * size[0] * size[1];	
+	}
+	return reference;
+}
+
+//TODO: optimize using relative offset from the central point
+//<template typename T>
+DEVICE void stencil(void *input, void *output, int *offset, int *size)
+{
+	int k = offset[0];	
+	int j = offset[1];	
+	int i = offset[2];	
+
+	int x = size[0];
+	int y = size[1];
+	//int z = size[2];
+	
+	size_t reference = (size_t)i * x * y + j * x + k;
+
+	int count = 0;
+	float total = 0;
+	int m;
+	/*X direction*/
+	/*positive direction*/
+	for(m = 1; m < W; m++)
+	{
+		count++;
+		total += ((float *)input)[get(reference, 3, size, m, 0, 0)];
+	}
+
+	/*negative direction*/
+	for(m = 1; m < W; m++)
+	{
+		count++;
+		total += ((float *)input)[get(reference, 3, size, -m, 0, 0)];
+	}
+
+	/*Y direction*/
+	/*positive direction*/
+	for(m = 1; m < W; m++)
+	{
+		count++;
+		total += ((float *)input)[get(reference, 3, size, 0, m, 0)];
+	}
+
+	/*negative direction*/
+	for(m = 1; m < W; m++)
+	{
+		count++;
+		total += ((float *)input)[get(reference, 3, size, 0, -m, 0)];
+	}
+
+	/*Z direction*/
+	/*positive direction*/
+	for(m = 1; m < W; m++)
+	{
+		count++;
+		total += ((float *)input)[get(reference, 3, size, 0, 0, m)];
+	}
+
+	/*negative direction*/
+	for(m = 1; m < W; m++)
+	{
+		count++;
+		total += ((float *)input)[get(reference, 3, size, 0, 0, -m)];
+	}
+
+	total /= count;
+	
+	*((float *)output + reference) = total;
+}
+}
+#endif

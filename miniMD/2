@@ -1,0 +1,125 @@
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+=========>x 83.979810 y 83.979810 z 83.979810
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+=========>x 83.979810 y 83.979810 z 83.979810
+atoms created...
+velocity created...
+nall is: 500000
+atoms created...
+velocity created...
+nall is: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+nodes created...
+nodes created...
+count is: =====> 0my rank is: 1
+count is: =====> 0my rank is: 0
+num_procs_: 2
+===========my rank: 1, my node start: 250000 global num edges: 18816288
+before====================================
+num_procs_: 2
+===========my rank: 0, my node start: 0 global num edges: 18816288
+before====================================
+after====================================
+before processing crossing edges size: 225812 my edge size: 9295238==============================
+after====================================
+before processing crossing edges size: 225812 my edge size: 9295238==============================
+crossing edge done.........
+crossing edge done.........
+xxxxxxxxxxxxxxxxxnum of my edges: 9521050
+xxxxxxxxxxxxxxxxxnum of my edges: 9521050
+=================> offset number: 9408144 input size: 75265152
+=================> offset number: 9408144 input size: 75265152
+==========>ITER 0
+==========>ITER 0
+gpu_total_num_partitons 0: 48
+gpu_total_num_partitons 1: 48
+my num nodes: 265000
+gpu_total_num_partitons 0: 48
+gpu_total_num_partitons 1: 48
+my num nodes: 265000
+partition done.............................................
+partition done.............................................
+++++++++++++++cpu edges: =========> 3761086
+++++++++++++++gpu 0 edges: =========> 6092662
+++++++++++++++gpu 1 edges: =========> 4602682
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++cpu edges: =========> 3761559
+++++++++++++++gpu 0 edges: =========> 6167755
+1 split done....
+++++++++++++++gpu 1 edges: =========> 6113296
+++++++++++++++ gpu edges copy done +++++++++++++ 
+0 split done....
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000442
+CPU time: 0.006348
+gpu time: 0.007224
+==========>ITER 1
+gpu_total_num_partitons 0: 64
+gpu_total_num_partitons 1: 64
+my num nodes: 265000
+partition done.............................................
+++++++++++++++cpu edges: =========> 2057462
+++++++++++++++gpu 0 edges: =========> 7432487
+++++++++++++++gpu 1 edges: =========> 7310753
+++++++++++++++ gpu edges copy done +++++++++++++ 
+CPU deleted....
+GPU 0 deleted....
+GPU 1 deleted....
+1 split done....
+=============>exchange halo time: 0.794768
+CPU time: 0.006700
+gpu time: 0.007297
+==========>ITER 1
+gpu_total_num_partitons 0: 64
+gpu_total_num_partitons 1: 64
+my num nodes: 265000
+partition done.............................................
+++++++++++++++cpu edges: =========> 1568995
+++++++++++++++gpu 0 edges: =========> 6992701
+++++++++++++++gpu 1 edges: =========> 7462699
+++++++++++++++ gpu edges copy done +++++++++++++ 
+CPU deleted....
+GPU 0 deleted....
+GPU 1 deleted....
+0 split done....
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000190
+CPU time: 0.004600
+gpu time: 0.008280
+==========>ITER 2
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000703
+=============>exchange halo time: 0.014310
+CPU time: 0.002475
+CPU time: 0.004618
+gpu time: 0.008110
+==========>ITER 2
+gpu time: 0.008234
+==========>ITER 3
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000703
+=============>exchange halo time: 0.000710
+CPU time: 0.002444
+CPU time: 0.004676
+gpu time: 0.008162
+gpu time: 0.008238
+==========>ITER 3
+==========>ITER 4
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000731
+=============>exchange halo time: 0.000610
+CPU time: 0.002508
+CPU time: 0.004608
+gpu time: 0.008161
+gpu time: 0.008249
+==========>ITER 4
+oooooooooooo exchanging halo node data ooooooooooooo

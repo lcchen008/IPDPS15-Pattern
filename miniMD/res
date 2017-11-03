@@ -1,0 +1,1178 @@
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+=========>x 83.979810 y 83.979810 z 83.979810
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+=========>x 83.979810 y 83.979810 z 83.979810
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+=========>x 83.979810 y 83.979810 z 83.979810
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+=========>x 83.979810 y 83.979810 z 83.979810
+nx: 50, ny: 50, nz: 50, rho: 0.844200
+=========>x 83.979810 y 83.979810 z 83.979810
+=========>x 83.979810 y 83.979810 z 83.979810
+=========>x 83.979810 y 83.979810 z 83.979810
+=========>x 83.979810 y 83.979810 z 83.979810
+=========>x 83.979810 y 83.979810 z 83.979810
+=========>x 83.979810 y 83.979810 z 83.979810
+=========>x 83.979810 y 83.979810 z 83.979810
+=========>x 83.979810 y 83.979810 z 83.979810
+=========>x 83.979810 y 83.979810 z 83.979810
+=========>x 83.979810 y 83.979810 z 83.979810
+=========>x 83.979810 y 83.979810 z 83.979810
+=========>x 83.979810 y 83.979810 z 83.979810
+atoms created...
+atoms created...
+atoms created...
+velocity created...
+nall is: 500000
+atoms created...
+atoms created...
+atoms created...
+velocity created...
+nall is: 500000
+velocity created...
+nall is: 500000
+atoms created...
+atoms created...
+atoms created...
+atoms created...
+velocity created...
+nall is: 500000
+velocity created...
+nall is: 500000
+velocity created...
+nall is: 500000
+atoms created...
+atoms created...
+velocity created...
+nall is: 500000
+atoms created...
+velocity created...
+nall is: 500000
+atoms created...
+atoms created...
+velocity created...
+nall is: 500000
+velocity created...
+nall is: 500000
+atoms created...
+velocity created...
+nall is: 500000
+velocity created...
+nall is: 500000
+velocity created...
+nall is: 500000
+velocity created...
+nall is: 500000
+velocity created...
+nall is: 500000
+velocity created...
+nall is: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+nodes created...
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+nodes created...
+nodes created...
+nodes created...
+count is: =====> 0my rank is: 12
+count is: =====> 0my rank is: 14
+count is: =====> 0my rank is: 2
+count is: =====> 0my rank is: 7
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+nodes created...
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+nodes created...
+nodes created...
+nodes created...
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+build done...
+edges created...
+edges: 18816288, natoms: 500000
+nodes created...
+nodes created...
+nodes created...
+nodes created...
+nodes created...
+nodes created...
+nodes created...
+nodes created...
+count is: =====> 0my rank is: 13
+count is: =====> 0my rank is: 6
+count is: =====> 0my rank is: 9
+count is: =====> 0my rank is: 4
+count is: =====> 0my rank is: 1
+count is: =====> 0my rank is: 0
+count is: =====> 0my rank is: 5
+count is: =====> 0my rank is: 8
+count is: =====> 0my rank is: 11
+count is: =====> 0my rank is: 3
+count is: =====> 0my rank is: 10
+count is: =====> 0my rank is: 15
+num_procs_: 16
+===========my rank: 6, my node start: 187500 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 4, my node start: 125000 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 11, my node start: 343750 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 8, my node start: 250000 global num edges: 18816288
+before====================================
+num_procs_: 16
+num_procs_: 16
+===========my rank: 15, my node start: 468750 global num edges: 18816288
+before====================================
+===========my rank: 10, my node start: 312500 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 1, my node start: 31250 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 2, my node start: 62500 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 12, my node start: 375000 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 5, my node start: 156250 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 3, my node start: 93750 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 7, my node start: 218750 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 14, my node start: 437500 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 9, my node start: 281250 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 13, my node start: 406250 global num edges: 18816288
+before====================================
+num_procs_: 16
+===========my rank: 0, my node start: 0 global num edges: 18816288
+before====================================
+after====================================
+before processing crossing edges size: 242292 my edge size: 956112==============================
+after====================================
+after====================================
+after====================================
+after====================================
+after====================================
+after====================================
+after====================================
+after====================================
+after====================================
+after====================================
+after====================================
+after====================================
+after====================================
+after====================================
+after====================================
+before processing crossing edges size: 493792 my edge size: 943418==============================
+before processing crossing edges size: 492604 my edge size: 943719==============================
+before processing crossing edges size: 469627 my edge size: 955161==============================
+before processing crossing edges size: 243802 my edge size: 955208==============================
+before processing crossing edges size: 469647 my edge size: 955139==============================
+before processing crossing edges size: 469728 my edge size: 955276==============================
+before processing crossing edges size: 469800 my edge size: 955410==============================
+before processing crossing edges size: 469640 my edge size: 955388==============================
+before processing crossing edges size: 492855 my edge size: 943927==============================
+before processing crossing edges size: 492792 my edge size: 943414==============================
+before processing crossing edges size: 469737 my edge size: 955182==============================
+before processing crossing edges size: 492536 my edge size: 944014==============================
+before processing crossing edges size: 492622 my edge size: 943647==============================
+before processing crossing edges size: 493907 my edge size: 942994==============================
+before processing crossing edges size: 491081 my edge size: 944825==============================
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+crossing edge done.........
+xxxxxxxxxxxxxxxxxnum of my edges: 1425004
+xxxxxxxxxxxxxxxxxnum of my edges: 1436269
+xxxxxxxxxxxxxxxxxnum of my edges: 1436206
+xxxxxxxxxxxxxxxxxnum of my edges: 1425028
+xxxxxxxxxxxxxxxxxnum of my edges: 1436782
+xxxxxxxxxxxxxxxxxnum of my edges: 1436323
+xxxxxxxxxxxxxxxxxnum of my edges: 1425210
+xxxxxxxxxxxxxxxxxnum of my edges: 1436901
+xxxxxxxxxxxxxxxxxnum of my edges: 1435906
+xxxxxxxxxxxxxxxxxnum of my edges: 1436550
+xxxxxxxxxxxxxxxxxnum of my edges: 1437210
+xxxxxxxxxxxxxxxxxnum of my edges: 1424788
+xxxxxxxxxxxxxxxxxnum of my edges: 1199010
+xxxxxxxxxxxxxxxxxnum of my edges: 1424786
+xxxxxxxxxxxxxxxxxnum of my edges: 1198404
+xxxxxxxxxxxxxxxxxnum of my edges: 1424919
+=================> offset number: 1176018 input size: 9408144
+=================> offset number: 1176018 input size: 9408144
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 48073
+=================> offset number: 1176018 input size: 9408144
+=================> offset number: 1176018 input size: 9408144
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 48359
+=================> offset number: 1176018 input size: 9408144
+=================> offset number: 1176018 input size: 9408144
+partition done.............................................
+=================> offset number: 1176018 input size: 9408144
+=================> offset number: 1176018 input size: 9408144
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63348
+=================> offset number: 1176018 input size: 9408144
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63402
+=================> offset number: 1176018 input size: 9408144
+partition done.............................................
+=================> offset number: 1176018 input size: 9408144
+=================> offset number: 1176018 input size: 9408144
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64510
+=================> offset number: 1176018 input size: 9408144
+=================> offset number: 1176018 input size: 9408144
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64655
+=================> offset number: 1176018 input size: 9408144
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64558
+=================> offset number: 1176018 input size: 9408144
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64610
+partition done.............................................
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64517
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63361
+partition done.............................................
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63388
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63392
+partition done.............................................
+++++++++++++++cpu edges: =========> 403625
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64516
+++++++++++++++gpu 0 edges: =========> 564964
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64499
+++++++++++++++gpu 1 edges: =========> 551260
+++++++++++++++ gpu edges copy done +++++++++++++ 
+partition done.............................................
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64476
+0 split done....
+partition done.............................................
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63362
+partition done.............................................
+partition done.............................................
+++++++++++++++cpu edges: =========> 403895
+partition done.............................................
+++++++++++++++gpu 0 edges: =========> 565376
+++++++++++++++gpu 1 edges: =========> 551405
+++++++++++++++ gpu edges copy done +++++++++++++ 
+partition done.............................................
+partition done.............................................
+15 split done....
+partition done.............................................
+partition done.............................................
+partition done.............................................
+partition done.............................................
+++++++++++++++cpu edges: =========> 478702
+++++++++++++++gpu 0 edges: =========> 638502
+++++++++++++++cpu edges: =========> 478721
+++++++++++++++gpu 1 edges: =========> 622258
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 0 edges: =========> 642261
+++++++++++++++gpu 1 edges: =========> 626241
+++++++++++++++ gpu edges copy done +++++++++++++ 
+12 split done....
+7 split done....
+++++++++++++++cpu edges: =========> 481791
+++++++++++++++gpu 0 edges: =========> 642955
+++++++++++++++cpu edges: =========> 482363
+++++++++++++++gpu 0 edges: =========> 641535
+++++++++++++++gpu 1 edges: =========> 628015
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++cpu edges: =========> 482148
+++++++++++++++gpu 1 edges: =========> 624897
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 0 edges: =========> 642241
+++++++++++++++gpu 1 edges: =========> 626247
+++++++++++++++ gpu edges copy done +++++++++++++ 
+9 split done....
+++++++++++++++cpu edges: =========> 482597
+14 split done....
+++++++++++++++cpu edges: =========> 482812
+++++++++++++++gpu 0 edges: =========> 643638
+6 split done....
+++++++++++++++gpu 0 edges: =========> 643772
+++++++++++++++gpu 1 edges: =========> 627793
+++++++++++++++cpu edges: =========> 478645
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 1 edges: =========> 626969
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 0 edges: =========> 640801
+++++++++++++++cpu edges: =========> 478653
+++++++++++++++gpu 1 edges: =========> 625800
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++cpu edges: =========> 478720
+++++++++++++++gpu 0 edges: =========> 641747
+10 split done....
+13 split done....
+++++++++++++++gpu 0 edges: =========> 642481
+++++++++++++++gpu 1 edges: =========> 624839
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 1 edges: =========> 626562
+++++++++++++++ gpu edges copy done +++++++++++++ 
+11 split done....
+++++++++++++++cpu edges: =========> 482602
+++++++++++++++cpu edges: =========> 482818
+++++++++++++++gpu 0 edges: =========> 642701
+++++++++++++++gpu 0 edges: =========> 641923
+++++++++++++++cpu edges: =========> 482918
+4 split done....
+8 split done....
+++++++++++++++gpu 0 edges: =========> 641970
+++++++++++++++gpu 1 edges: =========> 625835
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 1 edges: =========> 626080
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 1 edges: =========> 625482
+++++++++++++++ gpu edges copy done +++++++++++++ 
+2 split done....
+++++++++++++++cpu edges: =========> 478799
+5 split done....
+1 split done....
+++++++++++++++gpu 0 edges: =========> 640860
+++++++++++++++gpu 1 edges: =========> 622319
+++++++++++++++ gpu edges copy done +++++++++++++ 
+3 split done....
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.001128
+=============>exchange halo time: 0.001444
+=============>exchange halo time: 0.001549
+=============>exchange halo time: 0.001624
+=============>exchange halo time: 0.001561
+=============>exchange halo time: 0.001611
+=============>exchange halo time: 0.001647
+=============>exchange halo time: 0.001688
+=============>exchange halo time: 0.001431
+=============>exchange halo time: 0.001456
+=============>exchange halo time: 0.001531
+=============>exchange halo time: 0.002186
+=============>exchange halo time: 0.001219
+=============>exchange halo time: 0.001373
+=============>exchange halo time: 0.002208
+gpu time: 0.001564
+gpu time: 0.001815
+gpu time: 0.001820
+gpu time: 0.001840
+gpu time: 0.001581
+gpu time: 0.001822
+gpu time: 0.001826
+gpu time: 0.001868
+gpu time: 0.001826
+gpu time: 0.001806
+gpu time: 0.001826
+gpu time: 0.001767
+gpu time: 0.001794
+gpu time: 0.001767
+gpu time: 0.001838
+CPU time: 0.004271
+O+O+O+O+O+total offsets: 15 1176018
+CPU time: 0.007675
+O+O+O+O+O+total offsets: 0 1176018
+15 gpu time: 0.003117
+15 CPU time: 0.004560
+CPU time: 0.009417
+CPU time: 0.009515
+O+O+O+O+O+total offsets: 10 1176018
+O+O+O+O+O+total offsets: 7 1176018
+CPU time: 0.009433
+O+O+O+O+O+total offsets: 8 1176018
+CPU time: 0.009671
+CPU time: 0.009591
+O+O+O+O+O+total offsets: 6 1176018
+CPU time: 0.009612
+O+O+O+O+O+total offsets: 9 1176018
+CPU time: 0.009699
+CPU time: 0.009647
+CPU time: 0.009518
+O+O+O+O+O+total offsets: 11 1176018
+O+O+O+O+O+total offsets: 13 1176018
+O+O+O+O+O+total offsets: 14 1176018
+CPU time: 0.009661
+CPU time: 0.009720
+O+O+O+O+O+total offsets: 2 1176018
+O+O+O+O+O+total offsets: 5 1176018
+CPU time: 0.009683
+O+O+O+O+O+total offsets: 12 1176018
+0 gpu time: 0.003211
+O+O+O+O+O+total offsets: 4 1176018
+7 gpu time: 0.003096
+10 gpu time: 0.003173
+8 gpu time: 0.003185
+0 CPU time: 0.005705
+13 gpu time: 0.002983
+6 gpu time: 0.003209
+11 gpu time: 0.003061
+9 gpu time: 0.003161
+14 gpu time: 0.003098
+5 gpu time: 0.003054
+2 gpu time: 0.003246
+12 gpu time: 0.003167
+4 gpu time: 0.003229
+13 CPU time: 0.004247
+10 CPU time: 0.004770
+8 CPU time: 0.004657
+14 CPU time: 0.004284
+9 CPU time: 0.004586
+6 CPU time: 0.004672
+5 CPU time: 0.004257
+2 CPU time: 0.004643
+12 CPU time: 0.004641
+4 CPU time: 0.004810
+7 CPU time: 0.006358
+11 CPU time: 0.006334
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 48359
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 48073
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64610
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64517
+gpu_total_num_partitons 1: 16
+my num nodes: 64655
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63388
+gpu_total_num_partitons 1: 16
+my num nodes: 64558
+gpu_total_num_partitons 1: 16
+my num nodes: 64510
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64499
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64516
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63348
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63392
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63402
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63361
+CPU time: 0.034668
+O+O+O+O+O+total offsets: 1 1176018
+1 gpu time: 0.003193
+1 CPU time: 0.006353
+partition done.............................................
+partition done.............................................
+partition done.............................................
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 64476
+partition done.............................................
+partition done.............................................
+partition done.............................................
+partition done.............................................
+partition done.............................................
+partition done.............................................
+partition done.............................................
+partition done.............................................
+partition done.............................................
+partition done.............................................
+partition done.............................................
+partition done.............................................
+++++++++++++++cpu edges: =========> 44182
+++++++++++++++gpu 0 edges: =========> 811398
+++++++++++++++gpu 1 edges: =========> 967141
+++++++++++++++ gpu edges copy done +++++++++++++ 
+CPU deleted....
+GPU 0 deleted....
+GPU 1 deleted....
+++++++++++++++cpu edges: =========> 132590
+0 split done....
+++++++++++++++gpu 0 edges: =========> 1063777
+++++++++++++++gpu 1 edges: =========> 844881
+++++++++++++++ gpu edges copy done +++++++++++++ 
+CPU deleted....
+GPU 0 deleted....
+GPU 1 deleted....
+++++++++++++++cpu edges: =========> 67717
+++++++++++++++cpu edges: =========> 72332
+++++++++++++++cpu edges: =========> 69472
+++++++++++++++cpu edges: =========> 70302
+++++++++++++++cpu edges: =========> 71506
+++++++++++++++cpu edges: =========> 72667
+++++++++++++++cpu edges: =========> 71131
+15 split done....
+++++++++++++++gpu 0 edges: =========> 1097092
+++++++++++++++gpu 0 edges: =========> 1086865
+++++++++++++++cpu edges: =========> 72202
+++++++++++++++gpu 0 edges: =========> 1099127
+++++++++++++++cpu edges: =========> 70586
+++++++++++++++gpu 0 edges: =========> 1087991
+++++++++++++++gpu 0 edges: =========> 1095359
+++++++++++++++gpu 0 edges: =========> 1081575
+++++++++++++++cpu edges: =========> 71511
+++++++++++++++gpu 0 edges: =========> 1091305
+++++++++++++++cpu edges: =========> 71346
+++++++++++++++gpu 1 edges: =========> 1097873
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 0 edges: =========> 1090375
+CPU deleted....
+++++++++++++++gpu 0 edges: =========> 1100361
+GPU 0 deleted....
+++++++++++++++gpu 0 edges: =========> 1080859
+++++++++++++++gpu 1 edges: =========> 1093599
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 1 edges: =========> 1091335
+++++++++++++++gpu 0 edges: =========> 1099457
+++++++++++++++gpu 1 edges: =========> 1082260
+++++++++++++++ gpu edges copy done +++++++++++++ 
+CPU deleted....
+++++++++++++++gpu 1 edges: =========> 1094446
+GPU 0 deleted....
+CPU deleted....
+++++++++++++++gpu 1 edges: =========> 1098937
+++++++++++++++ gpu edges copy done +++++++++++++ 
+GPU 0 deleted....
+GPU 1 deleted....
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 1 edges: =========> 1094880
+++++++++++++++ gpu edges copy done +++++++++++++ 
+CPU deleted....
+CPU deleted....
+CPU deleted....
+GPU 0 deleted....
+++++++++++++++cpu edges: =========> 71986
+++++++++++++++ gpu edges copy done +++++++++++++ 
+GPU 0 deleted....
+GPU 0 deleted....
+++++++++++++++gpu 1 edges: =========> 1082733
+++++++++++++++gpu 1 edges: =========> 1100100
+CPU deleted....
+++++++++++++++gpu 1 edges: =========> 1078166
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 1 edges: =========> 1085172
+GPU 0 deleted....
+8 split done....
+GPU 1 deleted....
+GPU 1 deleted....
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++ gpu edges copy done +++++++++++++ 
+CPU deleted....
+CPU deleted....
+CPU deleted....
+GPU 0 deleted....
+GPU 1 deleted....
+++++++++++++++ gpu edges copy done +++++++++++++ 
+++++++++++++++gpu 0 edges: =========> 1097806
+GPU 0 deleted....
+GPU 0 deleted....
+GPU 1 deleted....
+CPU deleted....
+GPU 1 deleted....
+2 split done....
+4 split done....
+GPU 0 deleted....
+=============>exchange halo time: 0.164826
+GPU 1 deleted....
+GPU 1 deleted....
+7 split done....
+13 split done....
+gpu time: 0.001798
+GPU 1 deleted....
+GPU 1 deleted....
+++++++++++++++gpu 1 edges: =========> 1095370
+10 split done....
+GPU 1 deleted....
+++++++++++++++cpu edges: =========> 20045
+++++++++++++++ gpu edges copy done +++++++++++++ 
+11 split done....
+6 split done....
+CPU deleted....
+5 split done....
+GPU 0 deleted....
+14 split done....
+9 split done....
+++++++++++++++gpu 0 edges: =========> 1098182
+GPU 1 deleted....
+CPU time: 0.009576
+O+O+O+O+O+total offsets: 3 1176018
+++++++++++++++gpu 1 edges: =========> 1099176
+++++++++++++++ gpu edges copy done +++++++++++++ 
+12 split done....
+CPU deleted....
+3 gpu time: 0.003150
+GPU 0 deleted....
+3 CPU time: 0.004678
+GPU 1 deleted....
+1 split done....
+gpu_total_num_partitons 0: 16
+gpu_total_num_partitons 1: 16
+my num nodes: 63362
+partition done.............................................
+++++++++++++++cpu edges: =========> 70526
+++++++++++++++gpu 0 edges: =========> 1099507
+++++++++++++++gpu 1 edges: =========> 1094748
+++++++++++++++ gpu edges copy done +++++++++++++ 
+CPU deleted....
+GPU 0 deleted....
+GPU 1 deleted....
+3 split done....
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000564
+=============>exchange halo time: 0.000773
+=============>exchange halo time: 0.000849
+=============>exchange halo time: 0.000876
+=============>exchange halo time: 0.000934
+=============>exchange halo time: 0.000933
+=============>exchange halo time: 0.001097
+=============>exchange halo time: 0.001093
+=============>exchange halo time: 0.001137
+=============>exchange halo time: 0.001142
+=============>exchange halo time: 0.001161
+=============>exchange halo time: 0.001065
+=============>exchange halo time: 0.001307
+=============>exchange halo time: 0.001303
+=============>exchange halo time: 0.001453
+CPU time: 0.001043
+CPU time: 0.001305
+gpu time: 0.001708
+CPU time: 0.001282
+O+O+O+O+O+total offsets: 0 1176018
+0 gpu time: 0.000000
+CPU time: 0.001241
+CPU time: 0.001242
+CPU time: 0.001240
+gpu time: 0.002009
+0 CPU time: 0.000145
+CPU time: 0.001333
+gpu time: 0.002110
+gpu time: 0.002099
+CPU time: 0.001997
+O+O+O+O+O+total offsets: 10 1176018
+10 gpu time: 0.000000
+gpu time: 0.002114
+gpu time: 0.002137
+O+O+O+O+O+total offsets: 9 1176018
+9 gpu time: 0.000000
+CPU time: 0.001905
+O+O+O+O+O+total offsets: 13 1176018
+13 gpu time: 0.000000
+gpu time: 0.002124
+gpu time: 0.002110
+10 CPU time: 0.000187
+gpu time: 0.002125
+gpu time: 0.002143
+13 CPU time: 0.000136
+gpu time: 0.002146
+9 CPU time: 0.000201
+CPU time: 0.002041
+O+O+O+O+O+total offsets: 11 1176018
+11 gpu time: 0.000000
+O+O+O+O+O+total offsets: 6 1176018
+6 gpu time: 0.000000
+O+O+O+O+O+total offsets: 12 1176018
+12 gpu time: 0.000001
+O+O+O+O+O+total offsets: 8 1176018
+8 gpu time: 0.000000
+O+O+O+O+O+total offsets: 14 1176018
+14 gpu time: 0.000000
+gpu time: 0.002167
+O+O+O+O+O+total offsets: 3 1176018
+3 gpu time: 0.000001
+CPU time: 0.001953
+11 CPU time: 0.000132
+12 CPU time: 0.000217
+14 CPU time: 0.000209
+CPU time: 0.002002
+6 CPU time: 0.000144
+CPU time: 0.002002
+3 CPU time: 0.000191
+gpu time: 0.002116
+O+O+O+O+O+total offsets: 4 1176018
+4 gpu time: 0.000001
+gpu time: 0.002080
+O+O+O+O+O+total offsets: 5 1176018
+5 gpu time: 0.000000
+8 CPU time: 0.000195
+gpu time: 0.002150
+O+O+O+O+O+total offsets: 7 1176018
+7 gpu time: 0.000000
+4 CPU time: 0.000142
+5 CPU time: 0.000230
+7 CPU time: 0.000151
+CPU time: 0.003220
+CPU time: 0.003611
+O+O+O+O+O+total offsets: 15 1176018
+15 gpu time: 0.000001
+O+O+O+O+O+total offsets: 1 1176018
+1 gpu time: 0.000001
+15 CPU time: 0.000141
+1 CPU time: 0.000212
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.001472
+=============>exchange halo time: 0.001711
+=============>exchange halo time: 0.001296
+=============>exchange halo time: 0.001887
+=============>exchange halo time: 0.001590
+=============>exchange halo time: 0.001347
+=============>exchange halo time: 0.001826
+=============>exchange halo time: 0.000909
+=============>exchange halo time: 0.001717
+=============>exchange halo time: 0.001566
+=============>exchange halo time: 0.001775
+=============>exchange halo time: 0.015482
+=============>exchange halo time: 0.003164
+CPU time: 0.001277
+CPU time: 0.001205
+CPU time: 0.001306
+CPU time: 0.001107
+CPU time: 0.001304
+CPU time: 0.001237
+CPU time: 0.001946
+CPU time: 0.001032
+gpu time: 0.002137
+CPU time: 0.001963
+CPU time: 0.001934
+gpu time: 0.002161
+gpu time: 0.002097
+CPU time: 0.002064
+gpu time: 0.002135
+O+O+O+O+O+total offsets: 7 1176018
+7 gpu time: 0.000000
+gpu time: 0.002139
+O+O+O+O+O+total offsets: 10 1176018
+10 gpu time: 0.000001
+gpu time: 0.002109
+gpu time: 0.002175
+O+O+O+O+O+total offsets: 9 1176018
+9 gpu time: 0.000000
+9 CPU time: 0.000192
+gpu time: 0.002098
+gpu time: 0.002149
+gpu time: 0.002120
+O+O+O+O+O+total offsets: 11 1176018
+11 gpu time: 0.000000
+10 CPU time: 0.000128
+O+O+O+O+O+total offsets: 13 1176018
+13 gpu time: 0.000001
+7 CPU time: 0.000125
+O+O+O+O+O+total offsets: 8 1176018
+8 gpu time: 0.000000
+O+O+O+O+O+total offsets: 4 1176018
+4 gpu time: 0.000001
+O+O+O+O+O+total offsets: 5 1176018
+5 gpu time: 0.000001
+5 CPU time: 0.000133
+O+O+O+O+O+total offsets: 6 1176018
+6 gpu time: 0.000000
+CPU time: 0.001929
+11 CPU time: 0.000152
+gpu time: 0.001729
+gpu time: 0.002177
+13 CPU time: 0.000136
+O+O+O+O+O+total offsets: 0 1176018
+4 CPU time: 0.000139
+8 CPU time: 0.000148
+0 gpu time: 0.000000
+gpu time: 0.002100
+O+O+O+O+O+total offsets: 2 1176018
+2 gpu time: 0.000000
+6 CPU time: 0.000157
+O+O+O+O+O+total offsets: 14 1176018
+14 gpu time: 0.000001
+0 CPU time: 0.000142
+14 CPU time: 0.000167
+2 CPU time: 0.000169
+CPU time: 0.003248
+O+O+O+O+O+total offsets: 15 1176018
+15 gpu time: 0.000001
+15 CPU time: 0.000202
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000863
+=============>exchange halo time: 0.014219
+=============>exchange halo time: 0.015030
+=============>exchange halo time: 0.015531
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.001364
+=============>exchange halo time: 0.001793
+=============>exchange halo time: 0.001842
+=============>exchange halo time: 0.001878
+=============>exchange halo time: 0.001941
+=============>exchange halo time: 0.000985
+CPU time: 0.001924
+gpu time: 0.002109
+=============>exchange halo time: 0.002159
+gpu time: 0.002040
+O+O+O+O+O+total offsets: 2 1176018
+2 gpu time: 0.000000
+CPU time: 0.001990
+2 CPU time: 0.000146
+CPU time: 0.002099
+CPU time: 0.001359
+O+O+O+O+O+total offsets: 1 1176018
+1 gpu time: 0.000000
+gpu time: 0.002178
+O+O+O+O+O+total offsets: 3 1176018
+3 gpu time: 0.000000
+CPU time: 0.001844
+1 CPU time: 0.000154
+3 CPU time: 0.000148
+gpu time: 0.002122
+O+O+O+O+O+total offsets: 12 1176018
+12 gpu time: 0.000000
+12 CPU time: 0.000134
+CPU time: 0.001915
+gpu time: 0.002184
+CPU time: 0.001994
+CPU time: 0.001885
+gpu time: 0.002121
+CPU time: 0.001993
+O+O+O+O+O+total offsets: 8 1176018
+8 gpu time: 0.000000
+O+O+O+O+O+total offsets: 9 1176018
+9 gpu time: 0.000000
+gpu time: 0.002128
+O+O+O+O+O+total offsets: 10 1176018
+10 gpu time: 0.000001
+gpu time: 0.002091
+O+O+O+O+O+total offsets: 5 1176018
+5 gpu time: 0.000000
+10 CPU time: 0.000137
+8 CPU time: 0.000163
+9 CPU time: 0.000153
+gpu time: 0.002142
+5 CPU time: 0.000145
+O+O+O+O+O+total offsets: 7 1176018
+7 gpu time: 0.000000
+7 CPU time: 0.000158
+CPU time: 0.002076
+gpu time: 0.002121
+O+O+O+O+O+total offsets: 15 1176018
+15 gpu time: 0.000001
+CPU time: 0.002037
+15 CPU time: 0.000171
+gpu time: 0.002184
+O+O+O+O+O+total offsets: 14 1176018
+14 gpu time: 0.000000
+14 CPU time: 0.000148
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000864
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.001087
+=============>exchange halo time: 0.014355
+=============>exchange halo time: 0.014926
+=============>exchange halo time: 0.001032
+=============>exchange halo time: 0.015150
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.015598
+=============>exchange halo time: 0.015432
+=============>exchange halo time: 0.001340
+CPU time: 0.001087
+CPU time: 0.001194
+=============>exchange halo time: 0.001679
+gpu time: 0.001748
+gpu time: 0.002025
+O+O+O+O+O+total offsets: 0 1176018
+0 gpu time: 0.000000
+CPU time: 0.002033
+O+O+O+O+O+total offsets: 1 1176018
+1 gpu time: 0.000000
+0 CPU time: 0.000148
+1 CPU time: 0.000134
+=============>exchange halo time: 0.001498
+gpu time: 0.002192
+CPU time: 0.001346
+O+O+O+O+O+total offsets: 3 1176018
+3 gpu time: 0.000001
+CPU time: 0.001871
+3 CPU time: 0.000147
+CPU time: 0.002042
+gpu time: 0.002160
+CPU time: 0.002001
+gpu time: 0.002140
+O+O+O+O+O+total offsets: 12 1176018
+12 gpu time: 0.000001
+O+O+O+O+O+total offsets: 6 1176018
+6 gpu time: 0.000001
+CPU time: 0.001239
+gpu time: 0.002134
+O+O+O+O+O+total offsets: 4 1176018
+4 gpu time: 0.000000
+12 CPU time: 0.000134
+6 CPU time: 0.000154
+4 CPU time: 0.000193
+gpu time: 0.002129
+gpu time: 0.002172
+CPU time: 0.002067
+O+O+O+O+O+total offsets: 11 1176018
+CPU time: 0.001905
+O+O+O+O+O+total offsets: 13 1176018
+13 gpu time: 0.000000
+11 gpu time: 0.000001
+gpu time: 0.002120
+11 CPU time: 0.000143
+13 CPU time: 0.000132
+O+O+O+O+O+total offsets: 9 1176018
+9 gpu time: 0.000000
+9 CPU time: 0.000168
+gpu time: 0.002168
+O+O+O+O+O+total offsets: 8 1176018
+8 gpu time: 0.000000
+8 CPU time: 0.000141
+gpu time: 0.002121
+CPU time: 0.003263
+O+O+O+O+O+total offsets: 15 1176018
+15 gpu time: 0.000000
+15 CPU time: 0.000170
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.014931
+oooooooooooo exchanging halo node data ooooooooooooo
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000893
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.000578
+=============>exchange halo time: 0.001039
+=============>exchange halo time: 0.000790
+=============>exchange halo time: 0.013820
+=============>exchange halo time: 0.014719
+=============>exchange halo time: 0.014889
+=============>exchange halo time: 0.000905
+CPU time: 0.001020
+=============>exchange halo time: 0.015320
+CPU time: 0.001727
+CPU time: 0.001146
+gpu time: 0.001716
+O+O+O+O+O+total offsets: 0 1176018
+0 gpu time: 0.000000
+gpu time: 0.002163
+O+O+O+O+O+total offsets: 2 1176018
+2 gpu time: 0.000000
+0 CPU time: 0.000191
+2 CPU time: 0.000154
+CPU time: 0.001214
+gpu time: 0.002117
+O+O+O+O+O+total offsets: 4 1176018
+4 gpu time: 0.000000
+CPU time: 0.001913
+CPU time: 0.001927
+4 CPU time: 0.000140
+gpu time: 0.002140
+gpu time: 0.002161
+CPU time: 0.001946
+O+O+O+O+O+total offsets: 6 1176018
+6 gpu time: 0.000001
+CPU time: 0.002023
+CPU time: 0.002018
+O+O+O+O+O+total offsets: 13 1176018
+13 gpu time: 0.000000
+gpu time: 0.002142
+gpu time: 0.002114
+O+O+O+O+O+total offsets: 5 1176018
+5 gpu time: 0.000001
+6 CPU time: 0.000170
+gpu time: 0.002175
+O+O+O+O+O+total offsets: 14 1176018
+14 gpu time: 0.000001
+13 CPU time: 0.000154
+gpu time: 0.002105
+O+O+O+O+O+total offsets: 7 1176018
+7 gpu time: 0.000000
+5 CPU time: 0.000140
+O+O+O+O+O+total offsets: 11 1176018
+11 gpu time: 0.000001
+7 CPU time: 0.000192
+CPU time: 0.001948
+14 CPU time: 0.000158
+gpu time: 0.002138
+11 CPU time: 0.000138
+O+O+O+O+O+total offsets: 10 1176018
+10 gpu time: 0.000000
+10 CPU time: 0.000159
+oooooooooooo exchanging halo node data ooooooooooooo
+=============>exchange halo time: 0.001081
+=============>exchange halo time: 0.014931
+=============>exchange halo time: 0.014716
+CPU time: 0.001945
+gpu time: 0.002034
+gpu time: 0.002118
+O+O+O+O+O+total offsets: 2 1176018
+2 gpu time: 0.000000
+CPU time: 0.002027
+2 CPU time: 0.000130
+gpu time: 0.002170
+O+O+O+O+O+total offsets: 3 1176018
+3 gpu time: 0.000001
+3 CPU time: 0.000157
+CPU time: 0.003550
+O+O+O+O+O+total offsets: 1 1176018
+1 gpu time: 0.000001
+1 CPU time: 0.000161

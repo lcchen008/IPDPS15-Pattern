@@ -1,0 +1,1596 @@
+Initting.......................
+Rank: 29 Init done...
+Initting.......................
+Rank: 23 Init done...
+my rank: 0
+my backward neighbors: {3, 12, 16}
+my forward neighbors: {1, 4, 16}
+Initting.......................
+Rank: 0 Init done...
+Initting.......................
+Rank: 8 Init done...
+Initting.......................
+Rank: 21 Init done...
+Initting.......................
+Rank: 20 Init done...
+Initting.......................
+Rank: 17 Init done...
+Initting.......................
+Rank: 4 Init done...
+Initting.......................
+Rank: 16 Init done...
+Initting.......................
+Rank: 9 Init done...
+Initting.......................
+Rank: 7 Init done...
+Initting.......................
+Rank: 10 Init done...
+Initting.......................
+Rank: 27 Init done...
+Initting.......................
+Rank: 1 Init done...
+Initting.......................
+Rank: 28 Init done...
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+Initting.......................
+Rank: 13 Init done...
+Initting.......................
+Rank: 24 Init done...
+Initting.......................
+Rank: 15 Init done...
+Initting.......................
+Rank: 26 Init done...
+Initting.......................
+Rank: 31 Init done...
+Initting.......................
+Rank: 2 Init done...
+Initting.......................
+Rank: 3 Init done...
+################copy to cpu done...
+copying GPU: 0
+Initting.......................
+Rank: 14 Init done...
+Initting.......................
+Rank: 19 Init done...
+Initting.......................
+Rank: 22 Init done...
+Initting.......................
+Rank: 30 Init done...
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+Initting.......................
+Rank: 18 Init done...
+Initting.......................
+Rank: 5 Init done...
+Initting.......................
+Rank: 6 Init done...
+Initting.......................
+Rank: 25 Init done...
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+Initting.......................
+Rank: 11 Init done...
+Initting.......................
+Rank: 12 Init done...
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 170
+#########along 1: 170
+#########along 2: 172
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+############internal size: {250, 250, 164}
+CPU thread launched...
+##########num_tiles: 2816
+############internal size: {250, 250, 164}
+gpu time: 0.019121
+############internal size: {250, 250, 164}
+############internal size: {250, 250, 164}
+############internal size: {250, 250, 164}
+CPU thread launched...
+##########num_tiles: 2816
+############internal size: {250, 250, 164}
+############internal size: {250, 250, 164}
+CPU thread launched...
+##########num_tiles: 2816
+gpu time: 0.017991
+############internal size: {250, 250, 164}
+CPU thread launched...
+##########num_tiles: 2816
+############internal size: {250, 250, 164}
+CPU thread launched...
+##########num_tiles: 2816
+############internal size: {250, 250, 164}
+gpu time: 0.018392
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 2816
+gpu time: 0.018268
+##########num_tiles: 2816
+gpu time: 0.022575
+############internal size: {250, 250, 164}
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 2816
+##########num_tiles: 2816
+gpu time: 0.018961
+CPU thread launched...
+gpu time: 0.023394
+############internal size: {250, 250, 164}
+##########num_tiles: 2816
+############internal size: {250, 250, 164}
+############internal size: {250, 250, 164}
+gpu time: 0.017930
+############internal size: {250, 250, 164}
+gpu time: 0.019732
+############internal size: {250, 250, 164}
+############internal size: {250, 250, 164}
+############internal size: {250, 250, 164}
+CPU thread launched...
+##########num_tiles: 2816
+gpu time: 0.022086
+############internal size: {250, 250, 164}
+CPU thread launched...
+CPU thread launched...
+############internal size: {250, 250, 164}
+############internal size: {250, 250, 164}
+##########num_tiles: 2816
+##########num_tiles: 2816
+############internal size: {250, 250, 164}
+CPU thread launched...
+CPU thread launched...
+############internal size: {250, 250, 164}
+CPU thread launched...
+############internal size: {250, 250, 164}
+##########num_tiles: 2816
+############internal size: {250, 250, 164}
+##########num_tiles: 2816
+##########num_tiles: 2816
+############internal size: {250, 250, 164}
+gpu time: 0.024135
+############internal size: {250, 250, 164}
+CPU thread launched...
+##########num_tiles: 2816
+############internal size: {250, 250, 164}
+############internal size: {250, 250, 164}
+CPU thread launched...
+gpu time: 0.018272
+############internal size: {250, 250, 164}
+gpu time: 0.017456
+############internal size: {250, 250, 164}
+gpu time: 0.019207
+############internal size: {250, 250, 164}
+exec time: 0.161630
+PURE INTERNAL TIME: 0.161883
+##########num_tiles: 2816
+gpu time: 0.027479
+gpu time: 0.022688
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 2816
+##########num_tiles: 2816
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 2816
+##########num_tiles: 2816
+gpu time: 0.019402
+exec time: 0.133189
+PURE INTERNAL TIME: 0.133456
+gpu time: 0.023807
+CPU thread launched...
+##########num_tiles: 2816
+CPU thread launched...
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 2816
+##########num_tiles: 2816
+##########num_tiles: 2816
+CPU thread launched...
+gpu time: 0.018282
+exec time: 0.127426
+PURE INTERNAL TIME: 0.127708
+gpu time: 0.018081
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 2816
+gpu time: 0.017186
+##########num_tiles: 2816
+CPU thread launched...
+gpu time: 0.024609
+##########num_tiles: 2816
+CPU thread launched...
+gpu time: 0.022598
+gpu time: 0.018590
+CPU thread launched...
+##########num_tiles: 2816
+##########num_tiles: 2816
+gpu time: 0.019757
+##########num_tiles: 2816
+gpu time: 0.024462
+exec time: 0.137867
+PURE INTERNAL TIME: 0.138103
+gpu time: 0.023705
+gpu time: 0.018400
+exec time: 0.154756
+PURE INTERNAL TIME: 0.154994
+exec time: 0.130421
+PURE INTERNAL TIME: 0.130673
+gpu time: 0.017191
+gpu time: 0.018119
+gpu time: 0.023521
+exec time: 0.129443
+PURE INTERNAL TIME: 0.129749
+gpu time: 0.018228
+exec time: 0.132609
+PURE INTERNAL TIME: 0.132919
+exec time: 0.148672
+PURE INTERNAL TIME: 0.148932
+exec time: 0.141795
+PURE INTERNAL TIME: 0.142094
+exec time: 0.127214
+PURE INTERNAL TIME: 0.127513
+exec time: 0.146744
+PURE INTERNAL TIME: 0.147068
+exec time: 0.133352
+PURE INTERNAL TIME: 0.133654
+exec time: 0.136754
+exec time: 0.126985
+PURE INTERNAL TIME: 0.137028
+PURE INTERNAL TIME: 0.127304
+exec time: 0.128240
+PURE INTERNAL TIME: 0.128515
+exec time: 0.156065
+PURE INTERNAL TIME: 0.156337
+exec time: 0.161939
+PURE INTERNAL TIME: 0.162239
+exec time: 0.128106
+PURE INTERNAL TIME: 0.128341
+exec time: 0.132246
+PURE INTERNAL TIME: 0.132498
+exec time: 0.132117
+PURE INTERNAL TIME: 0.132429
+exec time: 0.132986
+PURE INTERNAL TIME: 0.133265
+exec time: 0.142450
+PURE INTERNAL TIME: 0.142753
+exec time: 0.128448
+PURE INTERNAL TIME: 0.128686
+exec time: 0.139560
+PURE INTERNAL TIME: 0.139801
+exec time: 0.127154
+PURE INTERNAL TIME: 0.127382
+exec time: 0.127930
+PURE INTERNAL TIME: 0.128190
+exec time: 0.148092
+PURE INTERNAL TIME: 0.148382
+exec time: 0.149658
+PURE INTERNAL TIME: 0.149928
+exec time: 0.137904
+PURE INTERNAL TIME: 0.138151
+exec time: 0.141590
+PURE INTERNAL TIME: 0.141854
+exec time: 0.138868
+PURE INTERNAL TIME: 0.139120
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.001795
+DIM 1 copy time: 0.002371
+DIM 1 copy time: 0.002614
+DIM 1 copy time: 0.002395
+DIM 1 copy time: 0.001550
+DIM 1 copy time: 0.001562
+DIM 1 copy time: 0.001550
+DIM 1 copy time: 0.002370
+DIM 1 copy time: 0.001798
+DIM 1 copy time: 0.001537
+DIM 1 copy time: 0.001796
+DIM 1 copy time: 0.002608
+DIM 1 copy time: 0.001547
+DIM 1 copy time: 0.001559
+DIM 1 copy time: 0.001796
+DIM 1 copy time: 0.002602
+DIM 1 copy time: 0.002603
+DIM 1 copy time: 0.002391
+DIM 1 copy time: 0.001513
+DIM 1 copy time: 0.002597
+DIM 1 copy time: 0.001574
+DIM 1 copy time: 0.002343
+DIM 1 copy time: 0.001539
+DIM 1 copy time: 0.002369
+DIM 1 copy time: 0.001563
+DIM 1 copy time: 0.001549
+DIM 1 copy time: 0.001783
+DIM 1 copy time: 0.002594
+DIM 1 copy time: 0.001791
+DIM 1 copy time: 0.002373
+DIM 1 copy time: 0.002574
+DIM 1 copy time: 0.002397
+DIM 0 copy time: 0.039901
+DIM 0 copy time: 0.051348
+DIM 0 copy time: 0.051955
+DIM 0 copy time: 0.052129
+DIM 0 copy time: 0.052097
+DIM 0 copy time: 0.052256
+DIM 0 copy time: 0.052666
+DIM 0 copy time: 0.053229
+DIM 0 copy time: 0.053527
+DIM 0 copy time: 0.065234
+DIM 0 copy time: 0.066113
+DIM 0 copy time: 0.063921
+DIM 0 copy time: 0.066153
+DIM 0 copy time: 0.066703
+DIM 0 copy time: 0.066246
+DIM 0 copy time: 0.066830
+DIM 0 copy time: 0.067096
+DIM 0 copy time: 0.069081
+DIM 0 copy time: 0.093718
+DIM 0 copy time: 0.093411
+DIM 0 copy time: 0.093169
+DIM 0 copy time: 0.094165
+DIM 0 copy time: 0.093014
+DIM 0 copy time: 0.094122
+DIM 0 copy time: 0.093915
+DIM 0 copy time: 0.095602
+DIM 0 copy time: 0.120287
+DIM 0 copy time: 0.121659
+DIM 0 copy time: 0.121114
+DIM 0 copy time: 0.120897
+DIM 0 copy time: 0.122363
+DIM 0 copy time: 0.121723
+PURE EX TIME: 0.072127, PURE COPY TIME: 0.065234
+PURE EX TIME: 0.072872, PURE COPY TIME: 0.066153
+PURE EX TIME: 0.059459, PURE COPY TIME: 0.052256
+PURE EX TIME: 0.059339, PURE COPY TIME: 0.052097
+PURE EX TIME: 0.073167, PURE COPY TIME: 0.066703
+PURE EX TIME: 0.059906, PURE COPY TIME: 0.053229
+PURE EX TIME: 0.073752, PURE COPY TIME: 0.066830
+PURE EX TIME: 0.059125, PURE COPY TIME: 0.052129
+PURE EX TIME: 0.058462, PURE COPY TIME: 0.051348
+PURE EX TIME: 0.046760, PURE COPY TIME: 0.039901
+PURE EX TIME: 0.060748, PURE COPY TIME: 0.053527
+PURE EX TIME: 0.072269, PURE COPY TIME: 0.066113
+PURE EX TIME: 0.073947, PURE COPY TIME: 0.067096
+PURE EX TIME: 0.073282, PURE COPY TIME: 0.066246
+PURE EX TIME: 0.058838, PURE COPY TIME: 0.051955
+PURE EX TIME: 0.059595, PURE COPY TIME: 0.052666
+PURE EX TIME: 0.101673, PURE COPY TIME: 0.093718
+PURE EX TIME: 0.129151, PURE COPY TIME: 0.121659
+PURE EX TIME: 0.103315, PURE COPY TIME: 0.094122
+PURE EX TIME: 0.103558, PURE COPY TIME: 0.093915
+PURE EX TIME: 0.102178, PURE COPY TIME: 0.093411
+PURE EX TIME: 0.075826, PURE COPY TIME: 0.069081
+PURE EX TIME: 0.127503, PURE COPY TIME: 0.120287
+PURE EX TIME: 0.131188, PURE COPY TIME: 0.121723
+PURE EX TIME: 0.102338, PURE COPY TIME: 0.094165
+PURE EX TIME: 0.072347, PURE COPY TIME: 0.063921
+PURE EX TIME: 0.104755, PURE COPY TIME: 0.095602
+PURE EX TIME: 0.102361, PURE COPY TIME: 0.093014
+PURE EX TIME: 0.130940, PURE COPY TIME: 0.122363
+PURE EX TIME: 0.130090, PURE COPY TIME: 0.121114
+PURE EX TIME: 0.130223, PURE COPY TIME: 0.120897
+PURE EX TIME: 0.102142, PURE COPY TIME: 0.093169
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+##########num_tiles: 1216
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+##########num_tiles: 1216
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+gpu time: 0.001723
+##########num_tiles: 1216
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+##########num_tiles: 1216
+##########num_tiles: 1216
+##########num_tiles: 1216
+gpu time: 0.001731
+##########num_tiles: 1216
+gpu time: 0.001911
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+##########num_tiles: 1216
+##########num_tiles: 1216
+processing border...
+CPU thread launched...
+gpu time: 0.001760
+processing border...
+CPU thread launched...
+gpu time: 0.001720
+gpu time: 0.001770
+##########num_tiles: 1216
+gpu time: 0.001786
+gpu time: 0.001772
+##########num_tiles: 1216
+gpu time: 0.001775
+gpu time: 0.001773
+gpu time: 0.002310
+gpu time: 0.002314
+gpu time: 0.001731
+gpu time: 0.002310
+gpu time: 0.002313
+processing border...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+CPU thread launched...
+##########num_tiles: 1216
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+##########num_tiles: 1216
+##########num_tiles: 1216
+##########num_tiles: 1216
+##########num_tiles: 1216
+gpu time: 0.001737
+gpu time: 0.001743
+gpu time: 0.002312
+gpu time: 0.002305
+gpu time: 0.002300
+gpu time: 0.002311
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 1216
+##########num_tiles: 1216
+##########num_tiles: 1216
+gpu time: 0.001776
+gpu time: 0.001770
+gpu time: 0.001781
+gpu time: 0.001783
+gpu time: 0.001779
+gpu time: 0.002320
+gpu time: 0.002325
+gpu time: 0.002322
+gpu time: 0.001782
+gpu time: 0.001780
+gpu time: 0.001772
+exec time: 0.012788
+exec time: 0.012837
+exec time: 0.012756
+exec time: 0.012839
+exec time: 0.012785
+exec time: 0.012858
+exec time: 0.012917
+exec time: 0.012931
+exec time: 0.012870
+#########along 0: 31
+#########along 1: 240
+#########along 2: 241
+exec time: 0.012864
+exec time: 0.013033
+exec time: 0.013042
+#########along 0: 30
+#########along 1: 240
+#########along 2: 242
+#########along 0: 30
+#########along 1: 240
+#########along 2: 242
+exec time: 0.011981
+exec time: 0.012029
+exec time: 0.012843
+exec time: 0.012878
+#########along 0: 30
+#########along 1: 240
+#########along 2: 242
+exec time: 0.012849
+exec time: 0.012890
+#########along 0: 35
+#########along 1: 238
+#########along 2: 239
+exec time: 0.012059
+#########along 0: 47
+#########along 1: 232
+#########along 2: 233
+#########along 0: 43
+#########along 1: 234
+#########along 2: 235
+#########along 0: 27
+#########along 1: 242
+#########along 2: 243
+exec time: 0.012041
+exec time: 0.011997
+#########along 0: 43
+#########along 1: 234
+#########along 2: 235
+exec time: 0.012064
+#########along 0: 38
+#########along 1: 236
+#########along 2: 238
+#########along 0: 35
+#########along 1: 238
+#########along 2: 239
+#########along 0: 27
+#########along 1: 242
+#########along 2: 243
+exec time: 0.012159
+#########along 0: 36
+#########along 1: 237
+#########along 2: 239
+#########along 0: 30
+#########along 1: 240
+#########along 2: 242
+exec time: 0.015141
+exec time: 0.012689
+exec time: 0.013159
+################copy to cpu done...
+copying GPU: 0
+exec time: 0.012009
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 43
+#########along 1: 234
+#########along 2: 235
+#########along 0: 43
+#########along 1: 234
+#########along 2: 235
+exec time: 0.012115
+exec time: 0.012019
+#########along 0: 43
+#########along 1: 234
+#########along 2: 235
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 36
+#########along 1: 237
+#########along 2: 239
+#########along 0: 36
+#########along 1: 237
+#########along 2: 239
+#########along 0: 36
+#########along 1: 237
+#########along 2: 239
+#########along 0: 33
+#########along 1: 239
+#########along 2: 240
+#########along 0: 32
+#########along 1: 239
+#########along 2: 241
+#########along 0: 32
+#########along 1: 239
+#########along 2: 241
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 31
+#########along 1: 240
+#########along 2: 241
+#########along 0: 29
+#########along 1: 241
+#########along 2: 242
+#########along 0: 42
+#########along 1: 234
+#########along 2: 236
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 28
+#########along 1: 241
+#########along 2: 243
+#########along 0: 28
+#########along 1: 241
+#########along 2: 243
+#########along 0: 29
+#########along 1: 241
+#########along 2: 242
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+exec time: 0.020220
+exec time: 0.020026
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 39
+#########along 1: 236
+#########along 2: 237
+#########along 0: 34
+#########along 1: 238
+#########along 2: 240
+################copy to cpu done...
+copying GPU: 0
+exec time: 0.019870
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 41
+#########along 1: 235
+#########along 2: 236
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+############internal size: {250, 250, 30}
+############internal size: {250, 250, 26}
+############internal size: {250, 250, 30}
+############internal size: {250, 250, 36}
+############internal size: {250, 250, 25}
+############internal size: {250, 250, 41}
+############internal size: {250, 250, 24}
+############internal size: {250, 250, 26}
+############internal size: {250, 250, 22}
+CPU thread launched...
+##########num_tiles: 512
+############internal size: {250, 250, 37}
+############internal size: {250, 250, 22}
+############internal size: {250, 250, 37}
+CPU thread launched...
+##########num_tiles: 512
+############internal size: {250, 250, 35}
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 768
+CPU thread launched...
+##########num_tiles: 512
+############internal size: {250, 250, 32}
+############internal size: {250, 250, 29}
+CPU thread launched...
+##########num_tiles: 768
+############internal size: {250, 250, 30}
+CPU thread launched...
+##########num_tiles: 512
+############internal size: {250, 250, 27}
+CPU thread launched...
+##########num_tiles: 512
+gpu time: 0.021895
+CPU thread launched...
+##########num_tiles: 512
+exec time: 0.024179
+PURE INTERNAL TIME: 0.024368
+############internal size: {250, 250, 21}
+############internal size: {250, 250, 30}
+############internal size: {250, 250, 24}
+gpu time: 0.022088
+CPU thread launched...
+##########num_tiles: 768
+exec time: 0.023999
+PURE INTERNAL TIME: 0.024129
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 768
+exec time: 0.024241
+CPU thread launched...
+##########num_tiles: 768
+gpu time: 0.022092
+############internal size: {250, 250, 28}
+exec time: 0.023370
+PURE INTERNAL TIME: 0.023505
+############internal size: {250, 250, 37}
+############internal size: {250, 250, 37}
+gpu time: 0.021292
+gpu time: 0.029196
+############internal size: {250, 250, 23}
+PURE INTERNAL TIME: 0.029280
+gpu time: 0.022198
+############internal size: {250, 250, 37}
+gpu time: 0.028846
+exec time: 0.023712
+PURE INTERNAL TIME: 0.023908
+############internal size: {250, 250, 21}
+CPU thread launched...
+##########num_tiles: 512
+gpu time: 0.022101
+CPU thread launched...
+##########num_tiles: 512
+############internal size: {250, 250, 33}
+exec time: 0.024091
+PURE INTERNAL TIME: 0.024311
+gpu time: 0.022288
+CPU thread launched...
+##########num_tiles: 512
+exec time: 0.035278
+exec time: 0.023568
+PURE INTERNAL TIME: 0.035468
+PURE INTERNAL TIME: 0.023688
+############internal size: {250, 250, 24}
+CPU thread launched...
+##########num_tiles: 512
+############internal size: {250, 250, 25}
+exec time: 0.035199
+PURE INTERNAL TIME: 0.035387
+############internal size: {250, 250, 24}
+gpu time: 0.022308
+exec time: 0.023315
+PURE INTERNAL TIME: 0.023454
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 512
+############internal size: {250, 250, 29}
+gpu time: 0.028689
+############internal size: {250, 250, 23}
+gpu time: 0.028706
+gpu time: 0.028819
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 768
+##########num_tiles: 768
+exec time: 0.035405
+gpu time: 0.021876
+PURE INTERNAL TIME: 0.035536
+exec time: 0.024161
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 768
+exec time: 0.024224
+PURE INTERNAL TIME: 0.024361
+exec time: 0.035214
+PURE INTERNAL TIME: 0.035354
+exec time: 0.035709
+PURE INTERNAL TIME: 0.035885
+CPU thread launched...
+##########num_tiles: 512
+gpu time: 0.021972
+gpu time: 0.029060
+PURE INTERNAL TIME: 0.029138
+CPU thread launched...
+##########num_tiles: 768
+exec time: 0.024058
+PURE INTERNAL TIME: 0.024191
+gpu time: 0.029144
+gpu time: 0.021875
+CPU thread launched...
+##########num_tiles: 512
+gpu time: 0.022266
+gpu time: 0.022173
+CPU thread launched...
+##########num_tiles: 512
+exec time: 0.024189
+PURE INTERNAL TIME: 0.024372
+exec time: 0.023971
+PURE INTERNAL TIME: 0.024151
+exec time: 0.023403
+PURE INTERNAL TIME: 0.023572
+exec time: 0.034911
+PURE INTERNAL TIME: 0.035037
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 512
+gpu time: 0.021967
+CPU thread launched...
+##########num_tiles: 512
+exec time: 0.024348
+PURE INTERNAL TIME: 0.024528
+gpu time: 0.022176
+exec time: 0.024004
+PURE INTERNAL TIME: 0.024134
+gpu time: 0.022261
+gpu time: 0.028673
+gpu time: 0.029519
+exec time: 0.023900
+PURE INTERNAL TIME: 0.024042
+gpu time: 0.028681
+gpu time: 0.022159
+exec time: 0.035167
+PURE INTERNAL TIME: 0.035295
+exec time: 0.035506
+PURE INTERNAL TIME: 0.035643
+gpu time: 0.022041
+exec time: 0.024008
+gpu time: 0.028929
+PURE INTERNAL TIME: 0.024196
+exec time: 0.035590
+PURE INTERNAL TIME: 0.035719
+gpu time: 0.022147
+exec time: 0.024226
+PURE INTERNAL TIME: 0.024391
+exec time: 0.024259
+PURE INTERNAL TIME: 0.024438
+gpu time: 0.021857
+exec time: 0.035288
+PURE INTERNAL TIME: 0.035475
+exec time: 0.024262
+PURE INTERNAL TIME: 0.024457
+gpu time: 0.022152
+exec time: 0.023737
+PURE INTERNAL TIME: 0.023907
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.001141
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.000941
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.001177
+DIM 1 copy time: 0.000913
+DIM 1 copy time: 0.001617
+DIM 1 copy time: 0.000909
+DIM 1 copy time: 0.002315
+DIM 1 copy time: 0.001150
+DIM 1 copy time: 0.001561
+DIM 1 copy time: 0.002512
+DIM 1 copy time: 0.000906
+DIM 1 copy time: 0.000925
+DIM 1 copy time: 0.001742
+DIM 1 copy time: 0.000912
+DIM 1 copy time: 0.001543
+DIM 1 copy time: 0.001570
+DIM 1 copy time: 0.001759
+DIM 1 copy time: 0.001141
+DIM 1 copy time: 0.000934
+DIM 1 copy time: 0.001133
+DIM 1 copy time: 0.001550
+DIM 1 copy time: 0.002500
+DIM 1 copy time: 0.002525
+DIM 1 copy time: 0.001579
+DIM 1 copy time: 0.001140
+DIM 1 copy time: 0.000915
+DIM 1 copy time: 0.002351
+DIM 1 copy time: 0.001797
+DIM 1 copy time: 0.000966
+DIM 1 copy time: 0.000910
+DIM 1 copy time: 0.001557
+DIM 1 copy time: 0.001777
+DIM 0 copy time: 0.033769
+DIM 0 copy time: 0.033580
+DIM 0 copy time: 0.033499
+DIM 0 copy time: 0.034127
+DIM 0 copy time: 0.033716
+DIM 0 copy time: 0.033953
+DIM 0 copy time: 0.034679
+DIM 0 copy time: 0.046621
+DIM 0 copy time: 0.047203
+DIM 0 copy time: 0.047404
+DIM 0 copy time: 0.046963
+DIM 0 copy time: 0.047351
+DIM 0 copy time: 0.050230
+DIM 0 copy time: 0.051123
+DIM 0 copy time: 0.058170
+DIM 0 copy time: 0.062536
+DIM 0 copy time: 0.063117
+DIM 0 copy time: 0.064166
+DIM 0 copy time: 0.063504
+DIM 0 copy time: 0.062986
+DIM 0 copy time: 0.064138
+DIM 0 copy time: 0.062866
+DIM 0 copy time: 0.063658
+DIM 0 copy time: 0.064272
+DIM 0 copy time: 0.088517
+DIM 0 copy time: 0.088366
+DIM 0 copy time: 0.089124
+DIM 0 copy time: 0.089470
+DIM 0 copy time: 0.088919
+DIM 0 copy time: 0.063377
+DIM 0 copy time: 0.108722
+PURE EX TIME: 0.037795, PURE COPY TIME: 0.033499
+PURE EX TIME: 0.050586, PURE COPY TIME: 0.046621
+PURE EX TIME: 0.055890, PURE COPY TIME: 0.051123
+PURE EX TIME: 0.095266, PURE COPY TIME: 0.089470
+DIM 0 copy time: 0.064861
+PURE EX TIME: 0.051535, PURE COPY TIME: 0.047404
+PURE EX TIME: 0.094124, PURE COPY TIME: 0.088366
+PURE EX TIME: 0.037743, PURE COPY TIME: 0.033580
+PURE EX TIME: 0.068511, PURE COPY TIME: 0.064166
+PURE EX TIME: 0.036852, PURE COPY TIME: 0.033769
+PURE EX TIME: 0.051711, PURE COPY TIME: 0.046963
+PURE EX TIME: 0.053619, PURE COPY TIME: 0.050230
+PURE EX TIME: 0.069123, PURE COPY TIME: 0.062986
+PURE EX TIME: 0.061241, PURE COPY TIME: 0.058170
+PURE EX TIME: 0.096021, PURE COPY TIME: 0.088919
+PURE EX TIME: 0.068213, PURE COPY TIME: 0.062536
+PURE EX TIME: 0.038875, PURE COPY TIME: 0.033953
+PURE EX TIME: 0.039218, PURE COPY TIME: 0.034679
+PURE EX TIME: 0.051381, PURE COPY TIME: 0.047203
+PURE EX TIME: 0.093985, PURE COPY TIME: 0.088517
+PURE EX TIME: 0.038223, PURE COPY TIME: 0.034127
+PURE EX TIME: 0.068656, PURE COPY TIME: 0.063504
+PURE EX TIME: 0.070200, PURE COPY TIME: 0.063658
+PURE EX TIME: 0.052568, PURE COPY TIME: 0.047351
+PURE EX TIME: 0.068362, PURE COPY TIME: 0.063117
+PURE EX TIME: 0.102274, PURE COPY TIME: 0.063377
+PURE EX TIME: 0.038550, PURE COPY TIME: 0.033716
+PURE EX TIME: 0.069878, PURE COPY TIME: 0.062866
+PURE EX TIME: 0.069250, PURE COPY TIME: 0.064138
+PURE EX TIME: 0.112857, PURE COPY TIME: 0.108722
+PURE EX TIME: 0.094452, PURE COPY TIME: 0.089124
+PURE EX TIME: 0.071043, PURE COPY TIME: 0.064272
+PURE EX TIME: 0.116116, PURE COPY TIME: 0.064861
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 640
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 640
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+processing border...
+CPU thread launched...
+##########num_tiles: 640
+processing border...
+CPU thread launched...
+##########num_tiles: 640
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+processing border...
+CPU thread launched...
+##########num_tiles: 640
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+processing border...
+CPU thread launched...
+##########num_tiles: 640
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+##########num_tiles: 640
+processing border...
+CPU thread launched...
+##########num_tiles: 640
+##########num_tiles: 640
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+##########num_tiles: 640
+##########num_tiles: 640
+##########num_tiles: 704
+##########num_tiles: 704
+##########num_tiles: 704
+processing border...
+CPU thread launched...
+##########num_tiles: 640
+##########num_tiles: 704
+##########num_tiles: 640
+##########num_tiles: 640
+processing border...
+CPU thread launched...
+gpu time: 0.003397
+gpu time: 0.003425
+##########num_tiles: 704
+gpu time: 0.003391
+gpu time: 0.003400
+gpu time: 0.003393
+gpu time: 0.003351
+gpu time: 0.003376
+gpu time: 0.003361
+gpu time: 0.003407
+processing border...
+CPU thread launched...
+##########num_tiles: 704
+gpu time: 0.003381
+gpu time: 0.003401
+gpu time: 0.003383
+gpu time: 0.003414
+gpu time: 0.003366
+gpu time: 0.003431
+gpu time: 0.003340
+gpu time: 0.003417
+gpu time: 0.003389
+gpu time: 0.003368
+##########num_tiles: 704
+gpu time: 0.003407
+gpu time: 0.004056
+gpu time: 0.004092
+gpu time: 0.004133
+gpu time: 0.004136
+gpu time: 0.004079
+gpu time: 0.004082
+gpu time: 0.004087
+gpu time: 0.004083
+gpu time: 0.003500
+gpu time: 0.004129
+gpu time: 0.004127
+gpu time: 0.004704
+exec time: 0.005973
+exec time: 0.006019
+exec time: 0.006107
+5 ====>iter: 2
+9 ====>iter: 2
+exec time: 0.006098
+21 ====>iter: 2
+25 ====>iter: 2
+exec time: 0.006773
+10 ====>iter: 2
+exec time: 0.006895
+22 ====>iter: 2
+exec time: 0.007471
+exec time: 0.007705
+exec time: 0.007682
+exec time: 0.007702
+26 ====>iter: 2
+29 ====>iter: 2
+19 ====>iter: 2
+16 ====>iter: 2
+exec time: 0.007880
+exec time: 0.007731
+exec time: 0.007800
+30 ====>iter: 2
+6 ====>iter: 2
+exec time: 0.008121
+exec time: 0.007961
+exec time: 0.008182
+18 ====>iter: 2
+exec time: 0.008158
+31 ====>iter: 2
+2 ====>iter: 2
+14 ====>iter: 2
+exec time: 0.008062
+exec time: 0.007983
+24 ====>iter: 2
+exec time: 0.008274
+exec time: 0.008165
+exec time: 0.008248
+exec time: 0.008231
+exec time: 0.008196
+exec time: 0.008227
+27 ====>iter: 2
+exec time: 0.008114
+exec time: 0.008160
+exec time: 0.008304
+0 ====>iter: 2
+8 ====>iter: 2
+12 ====>iter: 2
+28 ====>iter: 2
+1 ====>iter: 2
+3 ====>iter: 2
+13 ====>iter: 2
+17 ====>iter: 2
+23 ====>iter: 2
+exec time: 0.007994
+11 ====>iter: 2
+4 ====>iter: 2
+exec time: 0.008189
+20 ====>iter: 2
+exec time: 0.010641
+7 ====>iter: 2
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 512
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 768
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 512
+##########num_tiles: 768
+CPU thread launched...
+##########num_tiles: 768
+CPU thread launched...
+##########num_tiles: 768
+CPU thread launched...
+##########num_tiles: 768
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 768
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 512
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 768
+CPU thread launched...
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 512
+##########num_tiles: 768
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 512
+##########num_tiles: 512
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 512
+##########num_tiles: 768
+##########num_tiles: 512
+CPU thread launched...
+##########num_tiles: 512
+gpu time: 0.022148
+exec time: 0.022415
+gpu time: 0.022284
+PURE INTERNAL TIME: 0.022578
+exec time: 0.022331
+PURE INTERNAL TIME: 0.022517
+gpu time: 0.021290
+gpu time: 0.022181
+exec time: 0.022270
+PURE INTERNAL TIME: 0.022395
+gpu time: 0.021882
+exec time: 0.022407
+exec time: 0.022550
+gpu time: 0.022276
+gpu time: 0.022083
+exec time: 0.022573
+exec time: 0.022326
+gpu time: 0.022079
+PURE INTERNAL TIME: 0.022769
+PURE INTERNAL TIME: 0.022490
+gpu time: 0.022144
+gpu time: 0.021969
+gpu time: 0.022248
+exec time: 0.022360
+exec time: 0.022454
+gpu time: 0.021968
+exec time: 0.022380
+PURE INTERNAL TIME: 0.022522
+PURE INTERNAL TIME: 0.022612
+gpu time: 0.022181
+gpu time: 0.022049
+exec time: 0.022511
+gpu time: 0.021888
+gpu time: 0.022153
+PURE INTERNAL TIME: 0.022674
+exec time: 0.022370
+PURE INTERNAL TIME: 0.022549
+gpu time: 0.021875
+gpu time: 0.022258
+exec time: 0.022398
+PURE INTERNAL TIME: 0.022536
+exec time: 0.022569
+exec time: 0.022439
+exec time: 0.022322
+PURE INTERNAL TIME: 0.022550
+gpu time: 0.022014
+PURE INTERNAL TIME: 0.022727
+PURE INTERNAL TIME: 0.022626
+PURE INTERNAL TIME: 0.022492
+exec time: 0.022638
+gpu time: 0.022153
+exec time: 0.022420
+PURE INTERNAL TIME: 0.022595
+PURE INTERNAL TIME: 0.022788
+exec time: 0.022431
+exec time: 0.022471
+PURE INTERNAL TIME: 0.022578
+PURE INTERNAL TIME: 0.022644
+exec time: 0.022539
+PURE INTERNAL TIME: 0.022663
+exec time: 0.022688
+gpu time: 0.029182
+gpu time: 0.028810
+gpu time: 0.029122
+PURE INTERNAL TIME: 0.029188
+PURE INTERNAL TIME: 0.029248
+gpu time: 0.028668
+gpu time: 0.028714
+gpu time: 0.028816
+gpu time: 0.028696
+gpu time: 0.029525
+gpu time: 0.028907
+gpu time: 0.028685
+gpu time: 0.029048
+PURE INTERNAL TIME: 0.029114
+exec time: 0.033860
+exec time: 0.033831
+PURE INTERNAL TIME: 0.034038
+PURE INTERNAL TIME: 0.034015
+exec time: 0.033712
+exec time: 0.033468
+exec time: 0.033708
+PURE INTERNAL TIME: 0.033563
+exec time: 0.033720
+PURE INTERNAL TIME: 0.033862
+PURE INTERNAL TIME: 0.033898
+PURE INTERNAL TIME: 0.033896
+exec time: 0.033718
+PURE INTERNAL TIME: 0.033889
+exec time: 0.033767
+PURE INTERNAL TIME: 0.033929
+exec time: 0.033629
+PURE INTERNAL TIME: 0.033811

@@ -1,0 +1,1427 @@
+Initting.......................
+Rank: 13 Init done...
+Initting.......................
+Rank: 12 Init done...
+Initting.......................
+Rank: 3 Init done...
+Initting.......................
+Rank: 9 Init done...
+Initting.......................
+Rank: 14 Init done...
+Initting.......................
+Rank: 5 Init done...
+Initting.......................
+Rank: 4 Init done...
+Initting.......................
+Rank: 6 Init done...
+Initting.......................
+Rank: 10 Init done...
+Initting.......................
+Rank: 15 Init done...
+Initting.......................
+Rank: 1 Init done...
+my rank: 0
+my backward neighbors: {0, 3, 12}
+my forward neighbors: {0, 1, 4}
+Initting.......................
+Rank: 0 Init done...
+Initting.......................
+Rank: 7 Init done...
+Initting.......................
+Rank: 2 Init done...
+Initting.......................
+Rank: 11 Init done...
+Initting.......................
+Rank: 8 Init done...
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+############internal size: {1018, 250, 79}
+CPU thread launched...
+##########num_tiles: 5120
+############internal size: {1018, 250, 79}
+############internal size: {1018, 250, 79}
+############internal size: {1018, 250, 79}
+############internal size: {1018, 250, 79}
+############internal size: {1018, 250, 79}
+gpu time: 0.031836
+############internal size: {1018, 250, 79}
+############internal size: {1018, 250, 79}
+CPU thread launched...
+############internal size: {1018, 250, 79}
+############internal size: {1018, 250, 79}
+############internal size: {1018, 250, 79}
+##########num_tiles: 5120
+############internal size: {1018, 250, 79}
+############internal size: {1018, 250, 79}
+############internal size: {1018, 250, 79}
+CPU thread launched...
+CPU thread launched...
+############internal size: {1018, 250, 79}
+##########num_tiles: 5120
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 5120
+##########num_tiles: 5120
+##########num_tiles: 5120
+CPU thread launched...
+##########num_tiles: 5120
+CPU thread launched...
+gpu time: 0.033586
+##########num_tiles: 5120
+CPU thread launched...
+CPU thread launched...
+CPU thread launched...
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 5120
+CPU thread launched...
+##########num_tiles: 5120
+CPU thread launched...
+##########num_tiles: 5120
+##########num_tiles: 5120
+##########num_tiles: 5120
+gpu time: 0.032827
+############internal size: {1018, 250, 79}
+##########num_tiles: 5120
+##########num_tiles: 5120
+gpu time: 0.030867
+gpu time: 0.032919
+gpu time: 0.033295
+gpu time: 0.032403
+gpu time: 0.031429
+gpu time: 0.032821
+gpu time: 0.031660
+gpu time: 0.036651
+gpu time: 0.043225
+gpu time: 0.031745
+CPU thread launched...
+##########num_tiles: 5120
+gpu time: 0.042202
+gpu time: 0.043652
+gpu time: 0.041607
+exec time: 0.199487
+PURE INTERNAL TIME: 0.199748
+I am: 6 and my fw peer is: 10 my bw peer is: 2
+[6] Receiving halo of 3238320 bytes for fw access from 10
+[6] Receiving halo of 3238320 bytes for bw access from 2
+[6] Sending halo of 3238320 bytes for fw access to 2
+[6] Sending halo of 3238320 bytes for bw access to 10
+I am: 6 and my fw peer is: 7 my bw peer is: 5
+[6] Receiving halo of 3238320 bytes for fw access from 7
+[6] Receiving halo of 3238320 bytes for bw access from 5
+[6] Sending halo of 3238320 bytes for fw access to 5
+[6] Sending halo of 3238320 bytes for bw access to 7
+exec time: 0.245119
+PURE INTERNAL TIME: 0.245388
+I am: 6 and my fw peer is: 6 my bw peer is: 6
+I am: 1 and my fw peer is: 5 my bw peer is: 13
+[1] Receiving halo of 3238320 bytes for fw access from 5
+[1] Sending halo of 3238320 bytes for bw access to 5
+I am: 1 and my fw peer is: 2 my bw peer is: 0
+[1] Receiving halo of 3238320 bytes for fw access from 2
+[1] Receiving halo of 3238320 bytes for bw access from 0
+[1] Sending halo of 3238320 bytes for fw access to 0
+[1] Sending halo of 3238320 bytes for bw access to 2
+I am: 1 and my fw peer is: 1 my bw peer is: 1
+exec time: 0.190372
+PURE INTERNAL TIME: 0.190656
+I am: 14 and my fw peer is: 2 my bw peer is: 10
+[14] Receiving halo of 3238320 bytes for bw access from 10
+[14] Sending halo of 3238320 bytes for fw access to 10
+I am: 14 and my fw peer is: 15 my bw peer is: 13
+[14] Receiving halo of 3238320 bytes for fw access from 15
+[14] Receiving halo of 3238320 bytes for bw access from 13
+[14] Sending halo of 3238320 bytes for fw access to 13
+[14] Sending halo of 3238320 bytes for bw access to 15
+I am: 14 and my fw peer is: 14 my bw peer is: 14
+exec time: 0.188385
+PURE INTERNAL TIME: 0.188693
+exec time: 0.187786
+I am: 9 and my fw peer is: 13 my bw peer is: 5
+[9] Receiving halo of 3238320 bytes for fw access from 13
+PURE INTERNAL TIME: 0.188110
+I am: 4 and my fw peer is: 8 my bw peer is: 0
+[4] Receiving halo of 3238320 bytes for fw access from 8
+[9] Receiving halo of 3238320 bytes for bw access from 5
+[9] Sending halo of 3238320 bytes for fw access to 5
+[9] Sending halo of 3238320 bytes for bw access to 13
+[4] Receiving halo of 3238320 bytes for bw access from 0
+[4] Sending halo of 3238320 bytes for fw access to 0
+I am: 9 and my fw peer is: 10 my bw peer is: 8
+[9] Receiving halo of 3238320 bytes for fw access from 10
+[9] Receiving halo of 3238320 bytes for bw access from 8
+[9] Sending halo of 3238320 bytes for fw access to 8
+[9] Sending halo of 3238320 bytes for bw access to 10
+[4] Sending halo of 3238320 bytes for bw access to 8
+I am: 9 and my fw peer is: 9 my bw peer is: 9
+I am: 4 and my fw peer is: 5 my bw peer is: 7
+[4] Receiving halo of 3238320 bytes for fw access from 5
+[4] Sending halo of 3238320 bytes for bw access to 5
+I am: 4 and my fw peer is: 4 my bw peer is: 4
+exec time: 0.197886
+PURE INTERNAL TIME: 0.198174
+I am: 0 and my fw peer is: 4 my bw peer is: 12
+[0] Receiving halo of 3238320 bytes for fw access from 4
+[0] Sending halo of 3238320 bytes for bw access to 4
+I am: 0 and my fw peer is: 1 my bw peer is: 3
+[0] Receiving halo of 3238320 bytes for fw access from 1
+[0] Sending halo of 3238320 bytes for bw access to 1
+I am: 0 and my fw peer is: 0 my bw peer is: 0
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.001541
+DIM 0 copy time: 0.001541
+RANK: 0 PURE EX TIME: 0.005087, PURE COPY TIME: 0.001541
+exec time: 0.195808
+PURE INTERNAL TIME: 0.196063
+I am: 2 and my fw peer is: 6 my bw peer is: 14
+[2] Receiving halo of 3238320 bytes for fw access from 6
+[2] Sending halo of 3238320 bytes for bw access to 6
+I am: 2 and my fw peer is: 3 my bw peer is: 1
+[2] Receiving halo of 3238320 bytes for fw access from 3
+[2] Receiving halo of 3238320 bytes for bw access from 1
+[2] Sending halo of 3238320 bytes for fw access to 1
+[2] Sending halo of 3238320 bytes for bw access to 3
+I am: 2 and my fw peer is: 2 my bw peer is: 2
+DIM 2 copy time: 0.000001
+exec time: 0.227575
+PURE INTERNAL TIME: 0.227830
+I am: 12 and my fw peer is: 0 my bw peer is: 8
+[12] Receiving halo of 3238320 bytes for bw access from 8
+[12] Sending halo of 3238320 bytes for fw access to 8
+I am: 12 and my fw peer is: 13 my bw peer is: 15
+[12] Receiving halo of 3238320 bytes for fw access from 13
+[12] Sending halo of 3238320 bytes for bw access to 13
+I am: 12 and my fw peer is: 12 my bw peer is: 12
+exec time: 0.239607
+PURE INTERNAL TIME: 0.239923
+I am: 13 and my fw peer is: 1 my bw peer is: 9
+[13] Receiving halo of 3238320 bytes for bw access from 9
+[13] Sending halo of 3238320 bytes for fw access to 9
+I am: 13 and my fw peer is: 14 my bw peer is: 12
+[13] Receiving halo of 3238320 bytes for fw access from 14
+[13] Receiving halo of 3238320 bytes for bw access from 12
+[13] Sending halo of 3238320 bytes for fw access to 12
+[13] Sending halo of 3238320 bytes for bw access to 14
+I am: 13 and my fw peer is: 13 my bw peer is: 13
+exec time: 0.235158
+PURE INTERNAL TIME: 0.235427
+I am: 11 and my fw peer is: 15 my bw peer is: 7
+[11] Receiving halo of 3238320 bytes for fw access from 15
+[11] Receiving halo of 3238320 bytes for bw access from 7
+[11] Sending halo of 3238320 bytes for fw access to 7
+exec time: 0.248471
+PURE INTERNAL TIME: 0.248758
+[11] Sending halo of 3238320 bytes for bw access to 15
+I am: 7 and my fw peer is: 11 my bw peer is: 3
+[7] Receiving halo of 3238320 bytes for fw access from 11
+I am: 11 and my fw peer is: 8 my bw peer is: 10
+[11] Receiving halo of 3238320 bytes for bw access from 10
+[11] Sending halo of 3238320 bytes for fw access to 10
+I am: 11 and my fw peer is: 11 my bw peer is: 11
+[7] Receiving halo of 3238320 bytes for bw access from 3
+[7] Sending halo of 3238320 bytes for fw access to 3
+[7] Sending halo of 3238320 bytes for bw access to 11
+I am: 7 and my fw peer is: 4 my bw peer is: 6
+[7] Receiving halo of 3238320 bytes for bw access from 6
+DIM 2 copy time: 0.000001
+[7] Sending halo of 3238320 bytes for fw access to 6
+I am: 7 and my fw peer is: 7 my bw peer is: 7
+DIM 1 copy time: 0.004777
+DIM 0 copy time: 0.004777
+RANK: 13 PURE EX TIME: 0.010561, PURE COPY TIME: 0.004777
+exec time: 0.228799
+PURE INTERNAL TIME: 0.229139
+I am: 3 and my fw peer is: 7 my bw peer is: 15
+[3] Receiving halo of 3238320 bytes for fw access from 7
+exec time: 0.225837
+PURE INTERNAL TIME: 0.226103
+I am: 15 and my fw peer is: 3 my bw peer is: 11
+[15] Receiving halo of 3238320 bytes for bw access from 11
+[3] Sending halo of 3238320 bytes for bw access to 7
+[15] Sending halo of 3238320 bytes for fw access to 11
+I am: 3 and my fw peer is: 0 my bw peer is: 2
+[3] Receiving halo of 3238320 bytes for bw access from 2
+I am: 15 and my fw peer is: 12 my bw peer is: 14
+[15] Receiving halo of 3238320 bytes for bw access from 14
+[3] Sending halo of 3238320 bytes for fw access to 2
+[15] Sending halo of 3238320 bytes for fw access to 14
+I am: 3 and my fw peer is: 3 my bw peer is: 3
+I am: 15 and my fw peer is: 15 my bw peer is: 15
+exec time: 0.235521
+PURE INTERNAL TIME: 0.235822
+I am: 5 and my fw peer is: 9 my bw peer is: 1
+[5] Receiving halo of 3238320 bytes for fw access from 9
+[5] Receiving halo of 3238320 bytes for bw access from 1
+[5] Sending halo of 3238320 bytes for fw access to 1
+[5] Sending halo of 3238320 bytes for bw access to 9
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+I am: 5 and my fw peer is: 6 my bw peer is: 4
+[5] Receiving halo of 3238320 bytes for fw access from 6
+[5] Receiving halo of 3238320 bytes for bw access from 4
+DIM 2 copy time: 0.000000
+[5] Sending halo of 3238320 bytes for fw access to 4
+[5] Sending halo of 3238320 bytes for bw access to 6
+DIM 2 copy time: 0.000000
+I am: 5 and my fw peer is: 5 my bw peer is: 5
+exec time: 0.239684
+PURE INTERNAL TIME: 0.239896
+I am: 10 and my fw peer is: 14 my bw peer is: 6
+[10] Receiving halo of 3238320 bytes for fw access from 14
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.002239
+[10] Receiving halo of 3238320 bytes for bw access from 6
+[10] Sending halo of 3238320 bytes for fw access to 6
+DIM 0 copy time: 0.002239
+RANK: 3 PURE EX TIME: 0.006592, PURE COPY TIME: 0.002239
+[10] Sending halo of 3238320 bytes for bw access to 14
+DIM 1 copy time: 0.002431
+DIM 0 copy time: 0.002431
+RANK: 15 PURE EX TIME: 0.006784, PURE COPY TIME: 0.002431
+I am: 10 and my fw peer is: 11 my bw peer is: 9
+[10] Receiving halo of 3238320 bytes for fw access from 11
+DIM 1 copy time: 0.002216
+DIM 0 copy time: 0.002216
+RANK: 7 PURE EX TIME: 0.016711, PURE COPY TIME: 0.002216
+[10] Receiving halo of 3238320 bytes for bw access from 9
+[10] Sending halo of 3238320 bytes for fw access to 9
+[10] Sending halo of 3238320 bytes for bw access to 11
+I am: 10 and my fw peer is: 10 my bw peer is: 10
+DIM 1 copy time: 0.002784
+DIM 0 copy time: 0.002784
+RANK: 2 PURE EX TIME: 0.037954, PURE COPY TIME: 0.002784
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.004275
+DIM 0 copy time: 0.004275
+RANK: 1 PURE EX TIME: 0.078008, PURE COPY TIME: 0.004275
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.003680
+DIM 0 copy time: 0.003680
+RANK: 5 PURE EX TIME: 0.009978, PURE COPY TIME: 0.003680
+DIM 1 copy time: 0.002789
+DIM 0 copy time: 0.002789
+RANK: 14 PURE EX TIME: 0.078831, PURE COPY TIME: 0.002789
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.002838
+DIM 0 copy time: 0.002838
+RANK: 10 PURE EX TIME: 0.008951, PURE COPY TIME: 0.002838
+DIM 1 copy time: 0.002034
+DIM 1 copy time: 0.002786
+DIM 0 copy time: 0.002034
+RANK: 11 PURE EX TIME: 0.027214, PURE COPY TIME: 0.002034
+DIM 0 copy time: 0.002786
+RANK: 6 PURE EX TIME: 0.085842, PURE COPY TIME: 0.002786
+exec time: 0.210994
+PURE INTERNAL TIME: 0.211330
+I am: 8 and my fw peer is: 12 my bw peer is: 4
+[8] Receiving halo of 3238320 bytes for fw access from 12
+[8] Receiving halo of 3238320 bytes for bw access from 4
+[8] Sending halo of 3238320 bytes for fw access to 4
+[8] Sending halo of 3238320 bytes for bw access to 12
+I am: 8 and my fw peer is: 9 my bw peer is: 11
+[8] Receiving halo of 3238320 bytes for fw access from 9
+[8] Sending halo of 3238320 bytes for bw access to 9
+I am: 8 and my fw peer is: 8 my bw peer is: 8
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.001681
+DIM 0 copy time: 0.001681
+RANK: 8 PURE EX TIME: 0.007350, PURE COPY TIME: 0.001681
+DIM 1 copy time: 0.002013
+DIM 0 copy time: 0.002013
+RANK: 12 PURE EX TIME: 0.051318, PURE COPY TIME: 0.002013
+DIM 1 copy time: 0.002104
+DIM 0 copy time: 0.002104
+RANK: 4 PURE EX TIME: 0.070927, PURE COPY TIME: 0.002104
+DIM 1 copy time: 0.003684
+DIM 0 copy time: 0.003684
+RANK: 9 PURE EX TIME: 0.072041, PURE COPY TIME: 0.003684
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 3008
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+##########num_tiles: 3008
+##########num_tiles: 3008
+CPU thread launched...
+##########num_tiles: 3008
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 3008
+##########num_tiles: 3008
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 3008
+##########num_tiles: 3008
+processing border...
+CPU thread launched...
+##########num_tiles: 3008
+##########num_tiles: 3008
+##########num_tiles: 3008
+##########num_tiles: 3008
+processing border...
+CPU thread launched...
+gpu time: 0.003786
+##########num_tiles: 3008
+processing border...
+CPU thread launched...
+##########num_tiles: 3008
+gpu time: 0.005009
+gpu time: 0.003812
+gpu time: 0.003832
+gpu time: 0.003777
+gpu time: 0.003799
+gpu time: 0.003787
+gpu time: 0.004979
+gpu time: 0.003786
+##########num_tiles: 3008
+gpu time: 0.003773
+gpu time: 0.005015
+##########num_tiles: 3008
+gpu time: 0.003761
+gpu time: 0.005039
+gpu time: 0.003825
+gpu time: 0.003808
+gpu time: 0.003806
+exec time: 0.018557
+exec time: 0.019971
+#########along 0: 22
+#########along 1: 116
+#########along 2: 118
+#########along 0: 20
+#########along 1: 117
+#########along 2: 119
+exec time: 0.024424
+exec time: 0.024238
+exec time: 0.024922
+#########along 0: 25
+#########along 1: 115
+#########along 2: 116
+exec time: 0.026544
+exec time: 0.026648
+#########along 0: 16
+#########along 1: 119
+#########along 2: 121
+exec time: 0.028312
+exec time: 0.028134
+################copy to cpu done...
+copying GPU: 0
+exec time: 0.028083
+exec time: 0.028786
+exec time: 0.028734
+#########along 0: 20
+#########along 1: 117
+#########along 2: 119
+#########along 0: 16
+#########along 1: 119
+#########along 2: 121
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 22
+#########along 1: 116
+#########along 2: 118
+#########along 0: 19
+#########along 1: 118
+#########along 2: 119
+#########along 0: 17
+#########along 1: 119
+#########along 2: 120
+#########along 0: 25
+#########along 1: 115
+#########along 2: 116
+exec time: 0.030251
+#########along 0: 16
+#########along 1: 119
+#########along 2: 121
+#########along 0: 19
+#########along 1: 118
+#########along 2: 119
+exec time: 0.032984
+#########along 0: 15
+#########along 1: 120
+#########along 2: 121
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 16
+#########along 1: 119
+#########along 2: 121
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+exec time: 0.036340
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+exec time: 0.039023
+#########along 0: 15
+#########along 1: 120
+#########along 2: 121
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 16
+#########along 1: 119
+#########along 2: 121
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+############internal size: {1018, 250, 19}
+############internal size: {1018, 250, 14}
+############internal size: {1018, 250, 16}
+############internal size: {1018, 250, 16}
+############internal size: {1018, 250, 14}
+############internal size: {1018, 250, 13}
+############internal size: {1018, 250, 11}
+############internal size: {1018, 250, 13}
+############internal size: {1018, 250, 10}
+############internal size: {1018, 250, 19}
+CPU thread launched...
+##########num_tiles: 2048
+CPU thread launched...
+##########num_tiles: 1024
+CPU thread launched...
+##########num_tiles: 1024
+############internal size: {1018, 250, 9}
+CPU thread launched...
+##########num_tiles: 1024
+CPU thread launched...
+##########num_tiles: 1024
+CPU thread launched...
+##########num_tiles: 1024
+CPU thread launched...
+##########num_tiles: 1024
+############internal size: {1018, 250, 10}
+############internal size: {1018, 250, 10}
+############internal size: {1018, 250, 10}
+CPU thread launched...
+##########num_tiles: 1024
+CPU thread launched...
+##########num_tiles: 2048
+CPU thread launched...
+##########num_tiles: 1024
+############internal size: {1018, 250, 10}
+############internal size: {1018, 250, 9}
+CPU thread launched...
+##########num_tiles: 1024
+gpu time: 0.041819
+CPU thread launched...
+##########num_tiles: 1024
+CPU thread launched...
+##########num_tiles: 1024
+CPU thread launched...
+##########num_tiles: 1024
+exec time: 0.045606
+exec time: 0.035115
+exec time: 0.032443
+gpu time: 0.042300
+gpu time: 0.056981
+exec time: 0.044433
+PURE INTERNAL TIME: 0.044619
+CPU thread launched...
+I am: 4 and my fw peer is: 8 my bw peer is: 0
+[4] Receiving halo of 3238320 bytes for fw access from 8
+[4] Receiving halo of 3238320 bytes for bw access from 0
+[4] Sending halo of 3238320 bytes for fw access to 0
+##########num_tiles: 1024
+exec time: 0.041284
+[4] Sending halo of 3238320 bytes for bw access to 8
+I am: 4 and my fw peer is: 5 my bw peer is: 7
+[4] Receiving halo of 3238320 bytes for fw access from 5
+[4] Sending halo of 3238320 bytes for bw access to 5
+I am: 4 and my fw peer is: 4 my bw peer is: 4
+CPU thread launched...
+##########num_tiles: 1024
+gpu time: 0.042194
+PURE INTERNAL TIME: 0.042275
+I am: 14 and my fw peer is: 2 my bw peer is: 10
+[14] Receiving halo of 3238320 bytes for bw access from 10
+[14] Sending halo of 3238320 bytes for fw access to 10
+I am: 14 and my fw peer is: 15 my bw peer is: 13
+[14] Receiving halo of 3238320 bytes for fw access from 15
+[14] Receiving halo of 3238320 bytes for bw access from 13
+[14] Sending halo of 3238320 bytes for fw access to 13
+[14] Sending halo of 3238320 bytes for bw access to 15
+I am: 14 and my fw peer is: 14 my bw peer is: 14
+gpu time: 0.042562
+PURE INTERNAL TIME: 0.042642
+I am: 12 and my fw peer is: 0 my bw peer is: 8
+[12] Receiving halo of 3238320 bytes for bw access from 8
+[12] Sending halo of 3238320 bytes for fw access to 8
+I am: 12 and my fw peer is: 13 my bw peer is: 15
+[12] Receiving halo of 3238320 bytes for fw access from 13
+[12] Sending halo of 3238320 bytes for bw access to 13
+I am: 12 and my fw peer is: 12 my bw peer is: 12
+exec time: 0.050772
+exec time: 0.053319
+PURE INTERNAL TIME: 0.053528
+I am: 9 and my fw peer is: 13 my bw peer is: 5
+[9] Receiving halo of 3238320 bytes for fw access from 13
+[9] Receiving halo of 3238320 bytes for bw access from 5
+[9] Sending halo of 3238320 bytes for fw access to 5
+gpu time: 0.042184
+[9] Sending halo of 3238320 bytes for bw access to 13
+I am: 9 and my fw peer is: 10 my bw peer is: 8
+[9] Receiving halo of 3238320 bytes for fw access from 10
+[9] Receiving halo of 3238320 bytes for bw access from 8
+[9] Sending halo of 3238320 bytes for fw access to 8
+[9] Sending halo of 3238320 bytes for bw access to 10
+I am: 9 and my fw peer is: 9 my bw peer is: 9
+gpu time: 0.042968
+PURE INTERNAL TIME: 0.043051
+I am: 11 and my fw peer is: 15 my bw peer is: 7
+[11] Receiving halo of 3238320 bytes for fw access from 15
+[11] Receiving halo of 3238320 bytes for bw access from 7
+[11] Sending halo of 3238320 bytes for fw access to 7
+[11] Sending halo of 3238320 bytes for bw access to 15
+I am: 11 and my fw peer is: 8 my bw peer is: 10
+[11] Receiving halo of 3238320 bytes for bw access from 10
+[11] Sending halo of 3238320 bytes for fw access to 10
+I am: 11 and my fw peer is: 11 my bw peer is: 11
+gpu time: 0.057891
+PURE INTERNAL TIME: 0.057968
+I am: 10 and my fw peer is: 14 my bw peer is: 6
+[10] Receiving halo of 3238320 bytes for fw access from 14
+[10] Receiving halo of 3238320 bytes for bw access from 6
+[10] Sending halo of 3238320 bytes for fw access to 6
+[10] Sending halo of 3238320 bytes for bw access to 14
+I am: 10 and my fw peer is: 11 my bw peer is: 9
+[10] Receiving halo of 3238320 bytes for fw access from 11
+[10] Receiving halo of 3238320 bytes for bw access from 9
+[10] Sending halo of 3238320 bytes for fw access to 9
+[10] Sending halo of 3238320 bytes for bw access to 11
+I am: 10 and my fw peer is: 10 my bw peer is: 10
+gpu time: 0.056978
+PURE INTERNAL TIME: 0.057055
+I am: 8 and my fw peer is: 12 my bw peer is: 4
+[8] Receiving halo of 3238320 bytes for fw access from 12
+[8] Receiving halo of 3238320 bytes for bw access from 4
+[8] Sending halo of 3238320 bytes for fw access to 4
+[8] Sending halo of 3238320 bytes for bw access to 12
+I am: 8 and my fw peer is: 9 my bw peer is: 11
+[8] Receiving halo of 3238320 bytes for fw access from 9
+[8] Sending halo of 3238320 bytes for bw access to 9
+I am: 8 and my fw peer is: 8 my bw peer is: 8
+DIM 2 copy time: 0.000000
+exec time: 0.050219
+exec time: 0.029347
+PURE INTERNAL TIME: 0.050386
+I am: 6 and my fw peer is: 10 my bw peer is: 2
+[6] Receiving halo of 3238320 bytes for fw access from 10
+[6] Receiving halo of 3238320 bytes for bw access from 2
+[6] Sending halo of 3238320 bytes for fw access to 2
+[6] Sending halo of 3238320 bytes for bw access to 10
+I am: 6 and my fw peer is: 7 my bw peer is: 5
+[6] Receiving halo of 3238320 bytes for fw access from 7
+[6] Receiving halo of 3238320 bytes for bw access from 5
+[6] Sending halo of 3238320 bytes for fw access to 5
+[6] Sending halo of 3238320 bytes for bw access to 7
+I am: 6 and my fw peer is: 6 my bw peer is: 6
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.001554
+DIM 0 copy time: 0.001554
+RANK: 8 PURE EX TIME: 0.005972, PURE COPY TIME: 0.001554
+DIM 2 copy time: 0.000000
+gpu time: 0.055959
+DIM 1 copy time: 0.002787
+DIM 0 copy time: 0.002787
+RANK: 10 PURE EX TIME: 0.012661, PURE COPY TIME: 0.002787
+exec time: 0.031574
+exec time: 0.031880
+gpu time: 0.043981
+PURE INTERNAL TIME: 0.044061
+I am: 7 and my fw peer is: 11 my bw peer is: 3
+[7] Receiving halo of 3238320 bytes for fw access from 11
+[7] Receiving halo of 3238320 bytes for bw access from 3
+[7] Sending halo of 3238320 bytes for fw access to 3
+[7] Sending halo of 3238320 bytes for bw access to 11
+I am: 7 and my fw peer is: 4 my bw peer is: 6
+[7] Receiving halo of 3238320 bytes for bw access from 6
+[7] Sending halo of 3238320 bytes for fw access to 6
+I am: 7 and my fw peer is: 7 my bw peer is: 7
+exec time: 0.034464
+exec time: 0.029175
+exec time: 0.031752
+gpu time: 0.042948
+PURE INTERNAL TIME: 0.043034
+I am: 15 and my fw peer is: 3 my bw peer is: 11
+[15] Receiving halo of 3238320 bytes for bw access from 11
+[15] Sending halo of 3238320 bytes for fw access to 11
+gpu time: 0.042957
+PURE INTERNAL TIME: 0.043042
+I am: 13 and my fw peer is: 1 my bw peer is: 9
+[13] Receiving halo of 3238320 bytes for bw access from 9
+[13] Sending halo of 3238320 bytes for fw access to 9
+I am: 15 and my fw peer is: 12 my bw peer is: 14
+[15] Receiving halo of 3238320 bytes for bw access from 14
+[15] Sending halo of 3238320 bytes for fw access to 14
+I am: 15 and my fw peer is: 15 my bw peer is: 15
+exec time: 0.094877
+PURE INTERNAL TIME: 0.095048
+gpu time: 0.042948
+I am: 2 and my fw peer is: 6 my bw peer is: 14
+[2] Receiving halo of 3238320 bytes for fw access from 6
+[2] Sending halo of 3238320 bytes for bw access to 6
+PURE INTERNAL TIME: 0.043023
+I am: 3 and my fw peer is: 7 my bw peer is: 15
+[3] Receiving halo of 3238320 bytes for fw access from 7
+[3] Sending halo of 3238320 bytes for bw access to 7
+I am: 13 and my fw peer is: 14 my bw peer is: 12
+[13] Receiving halo of 3238320 bytes for fw access from 14
+[13] Receiving halo of 3238320 bytes for bw access from 12
+[13] Sending halo of 3238320 bytes for fw access to 12
+[13] Sending halo of 3238320 bytes for bw access to 14
+I am: 2 and my fw peer is: 3 my bw peer is: 1
+[2] Receiving halo of 3238320 bytes for fw access from 3
+[2] Receiving halo of 3238320 bytes for bw access from 1
+[2] Sending halo of 3238320 bytes for fw access to 1
+[2] Sending halo of 3238320 bytes for bw access to 3
+I am: 3 and my fw peer is: 0 my bw peer is: 2
+[3] Receiving halo of 3238320 bytes for bw access from 2
+[3] Sending halo of 3238320 bytes for fw access to 2
+I am: 3 and my fw peer is: 3 my bw peer is: 3
+I am: 13 and my fw peer is: 13 my bw peer is: 13
+I am: 2 and my fw peer is: 2 my bw peer is: 2
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.002448
+DIM 0 copy time: 0.002448
+RANK: 11 PURE EX TIME: 0.034342, PURE COPY TIME: 0.002448
+DIM 2 copy time: 0.000000
+gpu time: 0.042921
+PURE INTERNAL TIME: 0.043006
+I am: 5 and my fw peer is: 9 my bw peer is: 1
+[5] Receiving halo of 3238320 bytes for fw access from 9
+[5] Receiving halo of 3238320 bytes for bw access from 1
+[5] Sending halo of 3238320 bytes for fw access to 1
+DIM 1 copy time: 0.001958
+DIM 0 copy time: 0.001958
+RANK: 7 PURE EX TIME: 0.015805, PURE COPY TIME: 0.001958
+DIM 1 copy time: 0.002287
+DIM 0 copy time: 0.002287
+RANK: 15 PURE EX TIME: 0.007165, PURE COPY TIME: 0.002287
+[5] Sending halo of 3238320 bytes for bw access to 9
+I am: 5 and my fw peer is: 6 my bw peer is: 4
+[5] Receiving halo of 3238320 bytes for fw access from 6
+[5] Receiving halo of 3238320 bytes for bw access from 4
+[5] Sending halo of 3238320 bytes for fw access to 4
+[5] Sending halo of 3238320 bytes for bw access to 6
+I am: 5 and my fw peer is: 5 my bw peer is: 5
+gpu time: 0.042968
+PURE INTERNAL TIME: 0.043051
+I am: 1 and my fw peer is: 5 my bw peer is: 13
+[1] Receiving halo of 3238320 bytes for fw access from 5
+[1] Sending halo of 3238320 bytes for bw access to 5
+I am: 1 and my fw peer is: 2 my bw peer is: 0
+[1] Receiving halo of 3238320 bytes for fw access from 2
+[1] Receiving halo of 3238320 bytes for bw access from 0
+[1] Sending halo of 3238320 bytes for fw access to 0
+[1] Sending halo of 3238320 bytes for bw access to 2
+I am: 1 and my fw peer is: 1 my bw peer is: 1
+DIM 1 copy time: 0.001971
+DIM 0 copy time: 0.001971
+RANK: 12 PURE EX TIME: 0.042591, PURE COPY TIME: 0.001971
+DIM 1 copy time: 0.004311
+DIM 0 copy time: 0.004311
+RANK: 13 PURE EX TIME: 0.009340, PURE COPY TIME: 0.004311
+DIM 1 copy time: 0.001573
+DIM 0 copy time: 0.001573
+RANK: 3 PURE EX TIME: 0.009609, PURE COPY TIME: 0.001573
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.002862
+DIM 0 copy time: 0.002862
+RANK: 14 PURE EX TIME: 0.047412, PURE COPY TIME: 0.002862
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.003465
+DIM 0 copy time: 0.003465
+RANK: 9 PURE EX TIME: 0.046096, PURE COPY TIME: 0.003465
+DIM 1 copy time: 0.002810
+DIM 0 copy time: 0.002810
+RANK: 2 PURE EX TIME: 0.015004, PURE COPY TIME: 0.002810
+DIM 1 copy time: 0.002822
+DIM 0 copy time: 0.002822
+RANK: 6 PURE EX TIME: 0.039340, PURE COPY TIME: 0.002822
+DIM 1 copy time: 0.003769
+DIM 0 copy time: 0.003769
+RANK: 5 PURE EX TIME: 0.010711, PURE COPY TIME: 0.003769
+exec time: 0.095232
+PURE INTERNAL TIME: 0.095402
+I am: 0 and my fw peer is: 4 my bw peer is: 12
+[0] Receiving halo of 3238320 bytes for fw access from 4
+[0] Sending halo of 3238320 bytes for bw access to 4
+I am: 0 and my fw peer is: 1 my bw peer is: 3
+[0] Receiving halo of 3238320 bytes for fw access from 1
+[0] Sending halo of 3238320 bytes for bw access to 1
+I am: 0 and my fw peer is: 0 my bw peer is: 0
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.001557
+DIM 0 copy time: 0.001557
+RANK: 0 PURE EX TIME: 0.004541, PURE COPY TIME: 0.001557
+DIM 1 copy time: 0.002055
+DIM 0 copy time: 0.002055
+RANK: 4 PURE EX TIME: 0.063253, PURE COPY TIME: 0.002055
+DIM 1 copy time: 0.004261
+DIM 0 copy time: 0.004261
+RANK: 1 PURE EX TIME: 0.022884, PURE COPY TIME: 0.004261
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 2208
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 2368
+##########num_tiles: 2368
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 2368
+processing border...
+CPU thread launched...
+##########num_tiles: 2368
+processing border...
+CPU thread launched...
+##########num_tiles: 2368
+##########num_tiles: 2368
+##########num_tiles: 2368
+processing border...
+CPU thread launched...
+##########num_tiles: 2208
+gpu time: 0.004194
+gpu time: 0.005857
+processing border...
+CPU thread launched...
+##########num_tiles: 2208
+gpu time: 0.004296
+gpu time: 0.005584
+gpu time: 0.004218
+processing border...
+CPU thread launched...
+gpu time: 0.004213
+##########num_tiles: 2208
+gpu time: 0.004188
+gpu time: 0.004116
+gpu time: 0.005501
+##########num_tiles: 2368
+processing border...
+CPU thread launched...
+##########num_tiles: 2208
+processing border...
+CPU thread launched...
+##########num_tiles: 2368
+gpu time: 0.004171
+gpu time: 0.005518
+processing border...
+CPU thread launched...
+gpu time: 0.004128
+##########num_tiles: 2208
+gpu time: 0.004199
+gpu time: 0.004099
+gpu time: 0.004217
+##########num_tiles: 2208
+gpu time: 0.004244
+exec time: 0.019472
+7 ====>iter: 2
+exec time: 0.020503
+3 ====>iter: 2
+exec time: 0.020883
+9 ====>iter: 2
+exec time: 0.021507
+exec time: 0.021337
+exec time: 0.020240
+exec time: 0.020605
+2 ====>iter: 2
+exec time: 0.021386
+exec time: 0.021703
+15 ====>iter: 2
+0 ====>iter: 2
+5 ====>iter: 2
+4 ====>iter: 2
+14 ====>iter: 2
+exec time: 0.020587
+exec time: 0.021823
+13 ====>iter: 2
+exec time: 0.020627
+10 ====>iter: 2
+11 ====>iter: 2
+exec time: 0.021611
+12 ====>iter: 2
+exec time: 0.022755
+6 ====>iter: 2
+exec time: 0.023085
+1 ====>iter: 2
+exec time: 0.029680
+8 ====>iter: 2
+CPU thread launched...
+##########num_tiles: 1024
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 2048
+##########num_tiles: 1024
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 1024
+##########num_tiles: 2048
+CPU thread launched...
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 1024
+##########num_tiles: 1024
+##########num_tiles: 1024
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 1024
+##########num_tiles: 1024
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 1024
+##########num_tiles: 1024
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 1024
+##########num_tiles: 1024
+CPU thread launched...
+##########num_tiles: 1024
+CPU thread launched...
+##########num_tiles: 1024
+exec time: 0.025760
+exec time: 0.028787
+exec time: 0.028609
+exec time: 0.028609
+exec time: 0.028752
+exec time: 0.030182
+exec time: 0.031420
+exec time: 0.037256
+exec time: 0.037272
+exec time: 0.039982
+exec time: 0.040313
+gpu time: 0.041836
+gpu time: 0.042977
+PURE INTERNAL TIME: 0.043067
+I am: 7 and my fw peer is: 11 my bw peer is: 3
+[7] Receiving halo of 3238320 bytes for fw access from 11
+[7] Receiving halo of 3238320 bytes for bw access from 3
+[7] Sending halo of 3238320 bytes for fw access to 3
+gpu time: 0.042194
+[7] Sending halo of 3238320 bytes for bw access to 11
+I am: 7 and my fw peer is: 4 my bw peer is: 6
+[7] Receiving halo of 3238320 bytes for bw access from 6
+[7] Sending halo of 3238320 bytes for fw access to 6
+I am: 7 and my fw peer is: 7 my bw peer is: 7
+PURE INTERNAL TIME: 0.042282
+I am: 4 and my fw peer is: 8 my bw peer is: 0
+[4] Receiving halo of 3238320 bytes for fw access from 8
+[4] Receiving halo of 3238320 bytes for bw access from 0
+[4] Sending halo of 3238320 bytes for fw access to 0
+gpu time: 0.042181
+PURE INTERNAL TIME: 0.042266
+I am: 14 and my fw peer is: 2 my bw peer is: 10
+[14] Receiving halo of 3238320 bytes for bw access from 10
+[14] Sending halo of 3238320 bytes for fw access to 10
+[4] Sending halo of 3238320 bytes for bw access to 8
+I am: 4 and my fw peer is: 5 my bw peer is: 7
+[4] Receiving halo of 3238320 bytes for fw access from 5
+[4] Sending halo of 3238320 bytes for bw access to 5
+I am: 4 and my fw peer is: 4 my bw peer is: 4
+exec time: 0.039099
+I am: 14 and my fw peer is: 15 my bw peer is: 13
+[14] Receiving halo of 3238320 bytes for fw access from 15
+[14] Receiving halo of 3238320 bytes for bw access from 13
+[14] Sending halo of 3238320 bytes for fw access to 13
+[14] Sending halo of 3238320 bytes for bw access to 15
+I am: 14 and my fw peer is: 14 my bw peer is: 14
+gpu time: 0.042538
+gpu time: 0.042924
+PURE INTERNAL TIME: 0.042611
+I am: 12 and my fw peer is: 0 my bw peer is: 8
+[12] Receiving halo of 3238320 bytes for bw access from 8
+[12] Sending halo of 3238320 bytes for fw access to 8
+gpu time: 0.042190
+PURE INTERNAL TIME: 0.043005
+I am: 3 and my fw peer is: 7 my bw peer is: 15
+[3] Receiving halo of 3238320 bytes for fw access from 7
+[3] Sending halo of 3238320 bytes for bw access to 7
+PURE INTERNAL TIME: 0.042272
+I am: 6 and my fw peer is: 10 my bw peer is: 2
+[6] Receiving halo of 3238320 bytes for fw access from 10
+[6] Receiving halo of 3238320 bytes for bw access from 2
+[6] Sending halo of 3238320 bytes for fw access to 2
+gpu time: 0.042998
+I am: 12 and my fw peer is: 13 my bw peer is: 15
+[12] Receiving halo of 3238320 bytes for fw access from 13
+[12] Sending halo of 3238320 bytes for bw access to 13
+I am: 12 and my fw peer is: 12 my bw peer is: 12
+I am: 3 and my fw peer is: 0 my bw peer is: 2
+[3] Receiving halo of 3238320 bytes for bw access from 2
+[3] Sending halo of 3238320 bytes for fw access to 2
+I am: 3 and my fw peer is: 3 my bw peer is: 3
+[6] Sending halo of 3238320 bytes for bw access to 10
+I am: 6 and my fw peer is: 7 my bw peer is: 5
+[6] Receiving halo of 3238320 bytes for fw access from 7
+[6] Receiving halo of 3238320 bytes for bw access from 5
+[6] Sending halo of 3238320 bytes for fw access to 5
+[6] Sending halo of 3238320 bytes for bw access to 7
+I am: 6 and my fw peer is: 6 my bw peer is: 6
+PURE INTERNAL TIME: 0.043074
+I am: 11 and my fw peer is: 15 my bw peer is: 7
+[11] Receiving halo of 3238320 bytes for fw access from 15
+[11] Receiving halo of 3238320 bytes for bw access from 7
+[11] Sending halo of 3238320 bytes for fw access to 7
+[11] Sending halo of 3238320 bytes for bw access to 15
+gpu time: 0.042988
+PURE INTERNAL TIME: 0.043079
+I am: 15 and my fw peer is: 3 my bw peer is: 11
+[15] Receiving halo of 3238320 bytes for bw access from 11
+[15] Sending halo of 3238320 bytes for fw access to 11
+I am: 11 and my fw peer is: 8 my bw peer is: 10
+[11] Receiving halo of 3238320 bytes for bw access from 10
+[11] Sending halo of 3238320 bytes for fw access to 10
+I am: 11 and my fw peer is: 11 my bw peer is: 11
+gpu time: 0.042957
+gpu time: 0.043003
+I am: 15 and my fw peer is: 12 my bw peer is: 14
+[15] Receiving halo of 3238320 bytes for bw access from 14
+[15] Sending halo of 3238320 bytes for fw access to 14
+I am: 15 and my fw peer is: 15 my bw peer is: 15
+PURE INTERNAL TIME: 0.043043
+I am: 5 and my fw peer is: 9 my bw peer is: 1
+[5] Receiving halo of 3238320 bytes for fw access from 9
+[5] Receiving halo of 3238320 bytes for bw access from 1
+[5] Sending halo of 3238320 bytes for fw access to 1
+PURE INTERNAL TIME: 0.043088
+I am: 13 and my fw peer is: 1 my bw peer is: 9
+[13] Receiving halo of 3238320 bytes for bw access from 9
+[13] Sending halo of 3238320 bytes for fw access to 9
+[5] Sending halo of 3238320 bytes for bw access to 9
+I am: 5 and my fw peer is: 6 my bw peer is: 4
+[5] Receiving halo of 3238320 bytes for fw access from 6
+[5] Receiving halo of 3238320 bytes for bw access from 4
+[5] Sending halo of 3238320 bytes for fw access to 4
+[5] Sending halo of 3238320 bytes for bw access to 6
+I am: 5 and my fw peer is: 5 my bw peer is: 5
+I am: 13 and my fw peer is: 14 my bw peer is: 12
+[13] Receiving halo of 3238320 bytes for fw access from 14
+[13] Receiving halo of 3238320 bytes for bw access from 12
+[13] Sending halo of 3238320 bytes for fw access to 12
+[13] Sending halo of 3238320 bytes for bw access to 14
+I am: 13 and my fw peer is: 13 my bw peer is: 13
+exec time: 0.045730
+PURE INTERNAL TIME: 0.045897
+I am: 9 and my fw peer is: 13 my bw peer is: 5
+[9] Receiving halo of 3238320 bytes for fw access from 13
+[9] Receiving halo of 3238320 bytes for bw access from 5
+[9] Sending halo of 3238320 bytes for fw access to 5
+[9] Sending halo of 3238320 bytes for bw access to 13
+I am: 9 and my fw peer is: 10 my bw peer is: 8
+[9] Receiving halo of 3238320 bytes for fw access from 10
+[9] Receiving halo of 3238320 bytes for bw access from 8
+[9] Sending halo of 3238320 bytes for fw access to 8
+[9] Sending halo of 3238320 bytes for bw access to 10
+I am: 9 and my fw peer is: 9 my bw peer is: 9
+gpu time: 0.043002
+PURE INTERNAL TIME: 0.043096
+I am: 1 and my fw peer is: 5 my bw peer is: 13
+[1] Receiving halo of 3238320 bytes for fw access from 5
+[1] Sending halo of 3238320 bytes for bw access to 5
+I am: 1 and my fw peer is: 2 my bw peer is: 0
+[1] Receiving halo of 3238320 bytes for fw access from 2
+[1] Receiving halo of 3238320 bytes for bw access from 0
+[1] Sending halo of 3238320 bytes for fw access to 0
+[1] Sending halo of 3238320 bytes for bw access to 2
+I am: 1 and my fw peer is: 1 my bw peer is: 1
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.002267
+DIM 0 copy time: 0.002267
+RANK: 15 PURE EX TIME: 0.006495, PURE COPY TIME: 0.002267
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.002833
+DIM 0 copy time: 0.002833
+RANK: 5 PURE EX TIME: 0.008764, PURE COPY TIME: 0.002833
+DIM 1 copy time: 0.002328
+DIM 0 copy time: 0.002328
+RANK: 7 PURE EX TIME: 0.012538, PURE COPY TIME: 0.002328
+exec time: 0.045849
+DIM 1 copy time: 0.003820
+gpu time: 0.055969
+DIM 0 copy time: 0.003820
+RANK: 13 PURE EX TIME: 0.010704, PURE COPY TIME: 0.003820
+gpu time: 0.056171
+gpu time: 0.057817
+PURE INTERNAL TIME: 0.057901
+I am: 10 and my fw peer is: 14 my bw peer is: 6
+[10] Receiving halo of 3238320 bytes for fw access from 14
+[10] Receiving halo of 3238320 bytes for bw access from 6
+[10] Sending halo of 3238320 bytes for fw access to 6
+[10] Sending halo of 3238320 bytes for bw access to 14
+I am: 10 and my fw peer is: 11 my bw peer is: 9
+[10] Receiving halo of 3238320 bytes for fw access from 11
+[10] Receiving halo of 3238320 bytes for bw access from 9
+[10] Sending halo of 3238320 bytes for fw access to 9
+[10] Sending halo of 3238320 bytes for bw access to 11
+I am: 10 and my fw peer is: 10 my bw peer is: 10
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+gpu time: 0.057018
+PURE INTERNAL TIME: 0.057094
+I am: 8 and my fw peer is: 12 my bw peer is: 4
+[8] Receiving halo of 3238320 bytes for fw access from 12
+[8] Receiving halo of 3238320 bytes for bw access from 4
+[8] Sending halo of 3238320 bytes for fw access to 4
+[8] Sending halo of 3238320 bytes for bw access to 12
+I am: 8 and my fw peer is: 9 my bw peer is: 11
+[8] Receiving halo of 3238320 bytes for fw access from 9
+[8] Sending halo of 3238320 bytes for bw access to 9
+I am: 8 and my fw peer is: 8 my bw peer is: 8
+DIM 1 copy time: 0.003636
+DIM 0 copy time: 0.003636
+RANK: 10 PURE EX TIME: 0.009120, PURE COPY TIME: 0.003636
+DIM 1 copy time: 0.003685
+DIM 0 copy time: 0.003685
+RANK: 14 PURE EX TIME: 0.024932, PURE COPY TIME: 0.003685
+DIM 1 copy time: 0.001992
+DIM 0 copy time: 0.001992
+RANK: 11 PURE EX TIME: 0.023959, PURE COPY TIME: 0.001992
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000000
+DIM 1 copy time: 0.001517
+DIM 0 copy time: 0.001517
+RANK: 12 PURE EX TIME: 0.028055, PURE COPY TIME: 0.001517
+DIM 1 copy time: 0.001511
+DIM 0 copy time: 0.001511
+RANK: 8 PURE EX TIME: 0.005899, PURE COPY TIME: 0.001511
+DIM 1 copy time: 0.003886
+DIM 0 copy time: 0.003886
+RANK: 9 PURE EX TIME: 0.028471, PURE COPY TIME: 0.003886
+exec time: 0.091282
+PURE INTERNAL TIME: 0.091475
+I am: 2 and my fw peer is: 6 my bw peer is: 14
+[2] Receiving halo of 3238320 bytes for fw access from 6
+[2] Sending halo of 3238320 bytes for bw access to 6
+exec time: 0.091236
+PURE INTERNAL TIME: 0.091406
+I am: 0 and my fw peer is: 4 my bw peer is: 12
+[0] Receiving halo of 3238320 bytes for fw access from 4
+[0] Sending halo of 3238320 bytes for bw access to 4
+I am: 2 and my fw peer is: 3 my bw peer is: 1
+[2] Receiving halo of 3238320 bytes for fw access from 3
+[2] Receiving halo of 3238320 bytes for bw access from 1
+[2] Sending halo of 3238320 bytes for fw access to 1
+[2] Sending halo of 3238320 bytes for bw access to 3
+I am: 2 and my fw peer is: 2 my bw peer is: 2
+I am: 0 and my fw peer is: 1 my bw peer is: 3
+[0] Receiving halo of 3238320 bytes for fw access from 1
+[0] Sending halo of 3238320 bytes for bw access to 1
+I am: 0 and my fw peer is: 0 my bw peer is: 0
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000000
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.002415
+DIM 0 copy time: 0.002415
+RANK: 4 PURE EX TIME: 0.054549, PURE COPY TIME: 0.002415
+DIM 1 copy time: 0.002794
+DIM 0 copy time: 0.002794
+RANK: 2 PURE EX TIME: 0.007081, PURE COPY TIME: 0.002794
+DIM 1 copy time: 0.001662
+DIM 0 copy time: 0.001662
+RANK: 0 PURE EX TIME: 0.007238, PURE COPY TIME: 0.001662
+DIM 1 copy time: 0.003634
+DIM 0 copy time: 0.003634
+RANK: 6 PURE EX TIME: 0.056055, PURE COPY TIME: 0.003634
+DIM 1 copy time: 0.001907
+DIM 0 copy time: 0.001907
+RANK: 3 PURE EX TIME: 0.057258, PURE COPY TIME: 0.001907
+DIM 1 copy time: 0.003394
+DIM 0 copy time: 0.003394
+RANK: 1 PURE EX TIME: 0.055368, PURE COPY TIME: 0.003394
+internal time: 0.141377
+internal time: 0.140351
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+internal time: 0.141430
+internal time: 0.133208
+##########num_tiles: 2368
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 2368
+internal time: 0.141581
+processing border...
+##########num_tiles: 2208
+CPU thread launched...
+internal time: 0.138942
+internal time: 0.141640
+##########num_tiles: 2368
+processing border...
+CPU thread launched...
+##########num_tiles: 2368
+processing border...
+CPU thread launched...
+internal time: 0.141346
+internal time: 0.141624
+##########num_tiles: 2208
+internal time: 0.142954
+internal time: 0.140585
+internal time: 0.141667
+internal time: 0.141948
+##########num_tiles: 2208
+internal time: 0.142460
+processing border...
+CPU thread launched...
+##########num_tiles: 2208
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+internal time: 0.142082
+processing border...
+CPU thread launched...
+##########num_tiles: 2208
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 2368
+internal time: 0.143977
+##########num_tiles: 2368
+##########num_tiles: 2208
+##########num_tiles: 2368
+processing border...
+CPU thread launched...
+##########num_tiles: 2368
+processing border...
+CPU thread launched...
+##########num_tiles: 2368
+##########num_tiles: 2208
+gpu time: 0.004113
+gpu time: 0.004129
+gpu time: 0.004151
+gpu time: 0.004258
+gpu time: 0.004143
+gpu time: 0.004099
+gpu time: 0.004139
+gpu time: 0.004217
+gpu time: 0.004186
+gpu time: 0.004313
+gpu time: 0.004273
+gpu time: 0.004231
+gpu time: 0.005569
+gpu time: 0.005475
+gpu time: 0.005816
+gpu time: 0.005545
+exec time: 0.018676
+border time: 0.018850
+#########RANK 1 EXECUTION TIME: 0.157831
+exec time: 0.018979
+border time: 0.019157
+#########RANK 15 EXECUTION TIME: 0.160833
+exec time: 0.019103
+exec time: 0.018992
+border time: 0.019314
+exec time: 0.019086
+#########RANK 11 EXECUTION TIME: 0.160697
+border time: 0.019219
+#########RANK 3 EXECUTION TIME: 0.162201
+border time: 0.019308
+#########RANK 13 EXECUTION TIME: 0.160959
+exec time: 0.019986
+border time: 0.020161
+exec time: 0.020099
+#########RANK 2 EXECUTION TIME: 0.161570
+border time: 0.020270
+#########RANK 12 EXECUTION TIME: 0.160650
+exec time: 0.020112
+border time: 0.020336
+#########RANK 8 EXECUTION TIME: 0.153567
+exec time: 0.020369
+exec time: 0.019985
+exec time: 0.019987
+border time: 0.020535
+exec time: 0.020049
+#########RANK 0 EXECUTION TIME: 0.162161
+border time: 0.020172
+#########RANK 9 EXECUTION TIME: 0.162660
+exec time: 0.020063
+border time: 0.020276
+#########RANK 14 EXECUTION TIME: 0.162252
+border time: 0.020225
+#########RANK 6 EXECUTION TIME: 0.160837
+border time: 0.020284
+#########RANK 4 EXECUTION TIME: 0.162397
+exec time: 0.020504
+border time: 0.020679
+#########RANK 10 EXECUTION TIME: 0.162367
+exec time: 0.022802
+border time: 0.022976
+#########RANK 5 EXECUTION TIME: 0.164434
+exec time: 0.022658
+border time: 0.022888
+#########RANK 7 EXECUTION TIME: 0.166892

@@ -1,0 +1,131 @@
+my rank: 0
+my backward neighbors: {0, 1, 2}
+my forward neighbors: {0, 1, 2}
+Initting.......................
+Rank: 0 Init done...
+Initting.......................
+Rank: 3 Init done...
+Initting.......................
+Rank: 2 Init done...
+Initting.......................
+Rank: 1 Init done...
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+################copy to cpu done...
+copying GPU: 0
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+#########along 0: 85
+#########along 1: 85
+#########along 2: 86
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+################copy to cpu done...
+copying GPU: 0
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+copying GPU: 1
+############internal size: {510, 254, 83}
+^^^^^^^CPU internal tiles: 3072, CPU border tiles: 1600
+############internal size: {510, 254, 83}
+^^^^^^^CPU internal tiles: 3072, CPU border tiles: 1600
+############internal size: {510, 254, 83}
+^^^^^^^CPU internal tiles: 3072, CPU border tiles: 1600
+############internal size: {510, 254, 83}
+^^^^^^^CPU internal tiles: 3072, CPU border tiles: 1600
+CPU thread launched...
+CPU thread launched...
+CPU thread launched...
+CPU thread launched...
+##########num_tiles: 3072
+##########num_tiles: 3072
+##########num_tiles: 3072
+##########num_tiles: 3072
+gpu time: 0.016706
+gpu time: 0.016672
+gpu time: 0.023131
+gpu time: 0.026794
+exec time: 0.048145
+PURE INTERNAL TIME: 0.048402
+I am: 2 and my fw peer is: 0 my bw peer is: 0
+[2] Receiving halo of 1060896 bytes for bw access from 0
+[2] Sending halo of 1060896 bytes for fw access to 0
+exec time: 0.048418
+PURE INTERNAL TIME: 0.048655
+exec time: 0.048532
+I am: 1 and my fw peer is: 3 my bw peer is: 3
+[1] Receiving halo of 1060896 bytes for fw access from 3
+[1] Sending halo of 1060896 bytes for bw access to 3
+exec time: 0.048747
+PURE INTERNAL TIME: 0.048759
+I am: 3 and my fw peer is: 1 my bw peer is: 1
+[3] Receiving halo of 1060896 bytes for bw access from 1
+[3] Sending halo of 1060896 bytes for fw access to 1
+PURE INTERNAL TIME: 0.048971
+I am: 0 and my fw peer is: 2 my bw peer is: 2
+[0] Receiving halo of 1060896 bytes for fw access from 2
+I am: 2 and my fw peer is: 3 my bw peer is: 3
+[2] Receiving halo of 1060896 bytes for fw access from 3
+[2] Sending halo of 1060896 bytes for bw access to 3
+I am: 1 and my fw peer is: 0 my bw peer is: 0
+[1] Receiving halo of 1060896 bytes for bw access from 0
+[1] Sending halo of 1060896 bytes for fw access to 0
+I am: 2 and my fw peer is: 2 my bw peer is: 2
+I am: 3 and my fw peer is: 2 my bw peer is: 2
+[3] Receiving halo of 1060896 bytes for bw access from 2
+[0] Sending halo of 1060896 bytes for bw access to 2
+I am: 1 and my fw peer is: 1 my bw peer is: 1
+[3] Sending halo of 1060896 bytes for fw access to 2
+I am: 0 and my fw peer is: 1 my bw peer is: 1
+[0] Receiving halo of 1060896 bytes for fw access from 1
+I am: 3 and my fw peer is: 3 my bw peer is: 3
+[0] Sending halo of 1060896 bytes for bw access to 1
+DIM 2 copy time: 0.000000
+I am: 0 and my fw peer is: 0 my bw peer is: 0
+DIM 2 copy time: 0.000001
+DIM 2 copy time: 0.000001
+DIM 1 copy time: 0.000705
+DIM 0 copy time: 0.000705
+RANK: 3 PURE EX TIME: 0.003244, PURE COPY TIME: 0.000705
+DIM 1 copy time: 0.000712
+DIM 2 copy time: 0.000000
+DIM 0 copy time: 0.000712
+RANK: 0 PURE EX TIME: 0.003554, PURE COPY TIME: 0.000712
+DIM 1 copy time: 0.000800
+DIM 0 copy time: 0.000800
+RANK: 2 PURE EX TIME: 0.004929, PURE COPY TIME: 0.000800
+DIM 1 copy time: 0.000704
+DIM 0 copy time: 0.000704
+RANK: 1 PURE EX TIME: 0.004869, PURE COPY TIME: 0.000704
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+processing border...
+CPU thread launched...
+##########num_tiles: 1600
+##########num_tiles: 1600
+##########num_tiles: 1600
+##########num_tiles: 1600
+gpu time: 0.000943
+gpu time: 0.000940
+gpu time: 0.001229
+gpu time: 0.001242
+exec time: 0.002684
+#########RANK 0 EXECUTION TIME: 0.000000
+exec time: 0.002822
+exec time: 0.003017
+#########RANK 2 EXECUTION TIME: 0.000000
+#########RANK 3 EXECUTION TIME: 0.000000
+exec time: 0.003557
+#########RANK 1 EXECUTION TIME: 0.000000
